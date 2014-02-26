@@ -1,0 +1,3300 @@
+[25/Dec/2013 17:44:36] "GET / HTTP/1.1" 302 0
+[25/Dec/2013 17:44:36] "GET /login?next=/ HTTP/1.1" 301 0
+[25/Dec/2013 17:44:36] "GET /login/?next=/ HTTP/1.1" 200 2258
+[25/Dec/2013 17:44:36] "GET /static/bootstrap/css/bootstrap-responsive.css HTTP/1.1" 500 29
+[25/Dec/2013 17:44:36] "GET /static/bootstrap/js/jquery-1.7.2.min.js HTTP/1.1" 500 29
+[25/Dec/2013 17:44:36] "GET /static/extra/js/extra.js HTTP/1.1" 500 29
+[25/Dec/2013 17:44:36] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 500 29
+[25/Dec/2013 17:44:36] "GET /static/extra/js/amcharts.js HTTP/1.1" 500 29
+[25/Dec/2013 17:44:36] "GET /static/extra/js/extra.js HTTP/1.1" 500 29
+[25/Dec/2013 17:44:36] "GET /static/extra/js/amcharts.js HTTP/1.1" 500 29
+[25/Dec/2013 17:47:01] "GET /login/?next=/ HTTP/1.1" 200 2258
+[25/Dec/2013 17:47:01] "GET /static/bootstrap/css/bootstrap-responsive.css HTTP/1.1" 500 29
+[25/Dec/2013 17:47:01] "GET /static/bootstrap/js/jquery-1.7.2.min.js HTTP/1.1" 500 29
+[25/Dec/2013 17:47:01] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 500 29
+[25/Dec/2013 17:47:01] "GET /static/extra/js/extra.js HTTP/1.1" 500 29
+[25/Dec/2013 17:47:01] "GET /static/extra/js/amcharts.js HTTP/1.1" 500 29
+[25/Dec/2013 17:47:01] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 500 29
+[25/Dec/2013 17:47:01] "GET /static/extra/js/extra.js HTTP/1.1" 500 29
+[25/Dec/2013 17:47:01] "GET /static/extra/js/amcharts.js HTTP/1.1" 500 29
+BJ-SQUID-36:
+BJ-SQUID-35:
+    grep: /tmp/nginx/2/2c/433b708a8cf571878db2f81a368102c2: No such file or directory
+BJ-SQUID-30:
+BJ-SQUID-31:
+    grep: /tmp/nginx/8/ed/8326fa7a411d73edd3cd3c06033cfed8: No such file or directory
+BJ-SQUID-33:
+    grep: /tmp/nginx/f/9e/7573ed018dca5b4e074e530cf9c3a9ef: No such file or directory
+    grep: /tmp/nginx/f/9e/6a3bb6e1d6d62e6d9fc2651aff10b9ef: No such file or directory
+BJ-SQUID-32:
+BJ-CACHE-200:
+    grep: /usr/local/nginx/cache/8/af/b3b543c3c628dfd5f412dfb679cb7af8: No such file or directory
+BJ-CACHE-202:
+    grep: /usr/local/nginx/cache/7/69/a8ec27595d9988befbe8eedc93e7d697: No such file or directory
+BJ-CACHE-201:
+BJ-CACHE-203:
+BJ-CACHE-204:
+[09/Jan/2014 23:57:11] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+BJ-SQUID-36:
+    grep: /tmp/nginx/4/80/8e46a9298113777ae7c31363f118e804: No such file or directory
+BJ-SQUID-35:
+    grep: /tmp/nginx/f/64/800397cc262db4626e68841e89f8b64f: No such file or directory
+BJ-SQUID-30:
+BJ-SQUID-31:
+    grep: /tmp/nginx/a/61/c2a44374a87e1c267be929e80958c61a: No such file or directory
+BJ-SQUID-33:
+    grep: /tmp/nginx/4/fc/996b8ced13a776d54c1c8024fbc52fc4: No such file or directory
+    grep: /tmp/nginx/9/68/164a309802a593110fef0309eeeaf689: No such file or directory
+BJ-SQUID-32:
+BJ-CACHE-202:
+BJ-CACHE-200:
+BJ-CACHE-201:
+    grep: /usr/local/nginx/cache/1/77/75f545eb8ca5d15a809838cd45f60771: No such file or directory
+    grep: /usr/local/nginx/cache/1/34/30af02402eb1438fcc4fce7ce74e8341: No such file or directory
+BJ-CACHE-203:
+BJ-CACHE-204:
+[10/Jan/2014 00:09:28] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+BJ-SQUID-36:
+BJ-SQUID-35:
+    grep: /tmp/nginx/a/45/2795611d789d9ed5334701152693545a: No such file or directory
+    grep: /tmp/nginx/e/48/bcc25c743b454f82526be5e288a5948e: No such file or directory
+BJ-SQUID-33:
+    grep: /tmp/nginx/b/fd/dade44b8e3f3ffbdacaf33e190543fdb: No such file or directory
+    grep: /tmp/nginx/6/ba/9fc604463f533c52baa224e2f8612ba6: No such file or directory
+BJ-SQUID-30:
+BJ-SQUID-32:
+BJ-SQUID-31:
+BJ-CACHE-202:
+    grep: /usr/local/nginx/cache/6/c9/fa07386947c7dc4bd391d53d5eb71c96: No such file or directory
+BJ-CACHE-200:
+    grep: /usr/local/nginx/cache/5/8b/39ea3c3414aeba2921e538e6d838f8b5: No such file or directory
+BJ-CACHE-201:
+    grep: /usr/local/nginx/cache/a/d8/736da9f046da9046c27c9e921bf38d8a: No such file or directory
+BJ-CACHE-203:
+BJ-CACHE-204:
+[10/Jan/2014 00:12:55] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+shanxiyidong:
+    SXYD-CACHE-33:
+    SXYD-CACHE-35:
+    SXYD-CACHE-15:
+    SXYD-CACHE-39:
+    SXYD-CACHE-41:
+    SXYD-CACHE-40:
+    SXYD-CACHE-37:
+    SXYD-CACHE-14:
+    SXYD-CACHE-36:
+    SXYD-CACHE-42:
+    SXYD-CACHE-32:
+    SXYD-CACHE-34:
+        grep: /tmp/nginx/f/26/47110de95be3be77b224e0fee26f326f: No such file or directory
+    SXYD-CACHE-38:
+guangzhou:
+    GZ-CACHE-22:
+    GZ-CACHE-24:
+    GZ-CACHE-18:
+    GZ-CACHE-12:
+    GZ-CACHE-16:
+    GZ-CACHE-26:
+    GZ-CACHE-20:
+    GZ-CACHE-14:
+    GZ-CACHE-13:
+    GZ-CACHE-17:
+    GZ-CACHE-21:
+    GZ-CACHE-25:
+    GZ-CACHE-23:
+    GZ-CACHE-15:
+    GZ-CACHE-19:
+xian:
+    XA-CACHE-13:
+    XA-CACHE-15:
+    XA-CACHE-27:
+    XA-CACHE-16:
+    XA-CACHE-24:
+    XA-CACHE-12:
+    XA-CACHE-14:
+    XA-CACHE-18:
+    XA-CACHE-26:
+    XA-CACHE-17:
+    XA-CACHE-20:
+    XA-CACHE-22:
+    XA-CACHE-19:
+    XA-CACHE-25:
+    XA-CACHE-23:
+    XA-CACHE-21:
+shenyang:
+    SY-CACHE-29:
+    SY-CACHE-25:
+    SY-CACHE-27:
+    SY-CACHE-22:
+    SY-CACHE-14:
+    SY-CACHE-24:
+    SY-CACHE-28:
+    SY-CACHE-18:
+    SY-CACHE-23:
+    SY-CACHE-12:
+    SY-CACHE-15:
+    SY-CACHE-17:
+    SY-CACHE-19:
+    SY-CACHE-16:
+    SY-CACHE-26:
+zhengzhou:
+    ZZ-CACHE-23:
+    ZZ-CACHE-52:
+    ZZ-CACHE-24:
+    ZZ-CACHE-54:
+    ZZ-CACHE-20:
+    ZZ-CACHE-55:
+    ZZ-CACHE-19:
+    ZZ-CACHE-17:
+    ZZ-CACHE-58:
+    ZZ-CACHE-18:
+    ZZ-CACHE-16:
+    ZZ-CACHE-57:
+    ZZ-CACHE-21:
+    ZZ-CACHE-14:
+    ZZ-CACHE-60:
+    ZZ-CACHE-53:
+    ZZ-CACHE-59:
+    ZZ-CACHE-56:
+    ZZ-CACHE-26:
+    ZZ-CACHE-25:
+    ZZ-CACHE-61:
+shijiazhuang:
+    SJZ-CACHE-44:
+    SJZ-CACHE-49:
+    SJZ-CACHE-38:
+    SJZ-CACHE-47:
+    SJZ-CACHE-46:
+    SJZ-CACHE-34:
+    SJZ-CACHE-50:
+    SJZ-CACHE-43:
+    SJZ-CACHE-37:
+    SJZ-CACHE-41:
+    SJZ-CACHE-33:
+    SJZ-CACHE-45:
+    SJZ-CACHE-40:
+    SJZ-CACHE-48:
+    SJZ-CACHE-32:
+    SJZ-CACHE-39:
+    SJZ-CACHE-36:
+    SJZ-CACHE-35:
+    SJZ-CACHE-31:
+taiyuan:
+    TY-CACHE-26:
+    TY-CACHE-14:
+    TY-CACHE-16:
+    TY-CACHE-23:
+    TY-CACHE-15:
+    TY-CACHE-13:
+    TY-CACHE-19:
+    TY-CACHE-17:
+    TY-CACHE-25:
+    TY-CACHE-22:
+    TY-CACHE-20:
+    TY-CACHE-18:
+    TY-CACHE-21:
+    TY-CACHE-24:
+    TY-CACHE-27:
+nanning:
+    NNN-CACHE-219:
+    NNN-CACHE-217:
+    NNN-CACHE-215:
+    NNN-CACHE-208:
+    NNN-CACHE-164:
+    NNN-CACHE-206:
+    NNN-CACHE-213:
+    NNN-CACHE-211:
+    NNN-CACHE-205:
+    NNN-CACHE-216:
+    NNN-CACHE-212:
+    NNN-CACHE-209:
+    NNN-CACHE-220:
+    NNN-CACHE-214:
+    NNN-CACHE-163:
+    NNN-CACHE-218:
+    NNN-CACHE-210:
+        grep: /tmp/nginx/4/b2/cda5896ba3510de17ac4369603e4eb24: No such file or directory
+    NNN-CACHE-207:
+hangzhou:
+    HZ-CACHE-13:
+    HZ-CACHE-15:
+    HZ-CACHE-16:
+    HZ-CACHE-26:
+    HZ-CACHE-23:
+    HZ-CACHE-20:
+    HZ-CACHE-25:
+    HZ-CACHE-12:
+    HZ-CACHE-17:
+    HZ-CACHE-24:
+    HZ-CACHE-19:
+    HZ-CACHE-14:
+    HZ-CACHE-18:
+    HZ-CACHE-21:
+    HZ-CACHE-22:
+huhehaote:
+    HHHT-CACHE-8:
+    HHHT-CACHE-9:
+    HHHT-CACHE-35:
+    HHHT-CACHE-41:
+    HHHT-CACHE-22:
+    HHHT-CACHE-29:
+    HHHT-CACHE-45:
+    HHHT-CACHE-30:
+    HHHT-CACHE-21:
+    HHHT-CACHE-37:
+    HHHT-CACHE-32:
+    HHHT-CACHE-31:
+    HHHT-CACHE-43:
+    HHHT-CACHE-33:
+    HHHT-CACHE-39:
+    HHHT-CACHE-24:
+    HHHT-CACHE-44:
+    HHHT-CACHE-20:
+    HHHT-CACHE-46:
+    HHHT-CACHE-38:
+    HHHT-CACHE-40:
+    HHHT-CACHE-36:
+    HHHT-CACHE-42:
+    HHHT-CACHE-19:
+zhejiangyidong:
+    ZJYD-CACHE-207:
+    ZJYD-CACHE-205:
+    ZJYD-CACHE-217:
+    ZJYD-CACHE-211:
+    ZJYD-CACHE-220:
+    ZJYD-CACHE-213:
+    ZJYD-CACHE-222:
+    ZJYD-CACHE-218:
+    ZJYD-CACHE-216:
+    ZJYD-CACHE-215:
+    ZJYD-CACHE-212:
+    ZJYD-CACHE-209:
+    ZJYD-CACHE-208:
+    ZJYD-CACHE-214:
+    ZJYD-CACHE-204:
+    ZJYD-CACHE-210:
+    ZJYD-CACHE-206:
+tianjin:
+    TJ-CACHE-91:
+    TJ-CACHE-89:
+    TJ-CACHE-82:
+    TJ-CACHE-93:
+    TJ-CACHE-83:
+    TJ-CACHE-80:
+    TJ-CACHE-81:
+    TJ-CACHE-85:
+    TJ-CACHE-84:
+    TJ-CACHE-87:
+    TJ-CACHE-79:
+    TJ-CACHE-92:
+        grep: /tmp/nginx/7/ba/d2d4cab9d3c6100b62a743292aaa8ba7: No such file or directory
+    TJ-CACHE-86:
+    TJ-CACHE-88:
+    TJ-CACHE-90:
+dongguan:
+    DG-CACHE-150:
+    DG-CACHE-146:
+    DG-CACHE-138:
+   BJ-SQUID-36:
+    grep: /tmp/nginx/5/83/1908cd59a4f1c8f8ff2741118c39f835: No such file or directory
+BJ-SQUID-35:
+BJ-SQUID-31:
+BJ-SQUID-30:
+BJ-SQUID-32:
+BJ-SQUID-33:
+    grep: /tmp/nginx/7/c7/fbfe794dc9e821df6612a28617797c77: No such file or directory
+    grep: /tmp/nginx/7/84/4a662b2c62be12dd173a4ff6ae4c4847: No such file or directory
+BJ-CACHE-202:
+    grep: /usr/local/nginx/cache/c/a7/aad30e065fcc3665d33e9e0a62e7ca7c: No such file or directory
+    grep: /usr/local/nginx/cache/b/e2/b1b76c53dbaddbcc26e110bbfc1b4e2b: No such file or directory
+BJ-CACHE-200:
+BJ-CACHE-201:
+    grep: /usr/local/nginx/cache/b/b1/38f84b04dc765cf58ace117ab615fb1b: No such file or directory
+    grep: /usr/local/nginx/cache/6/ab/402e79692a3364e481545c436dd6dab6: No such file or directory
+BJ-CACHE-203:
+BJ-CACHE-204:
+[10/Jan/2014 00:28:51] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+shanxiyidong:
+    SXYD-CACHE-33:
+    SXYD-CACHE-35:
+    SXYD-CACHE-15:
+    SXYD-CACHE-41:
+    SXYD-CACHE-39:
+    SXYD-CACHE-40:
+    SXYD-CACHE-14:
+    SXYD-CACHE-37:
+    SXYD-CACHE-36:
+    SXYD-CACHE-42:
+    SXYD-CACHE-34:
+    SXYD-CACHE-32:
+    SXYD-CACHE-38:
+guangzhou:
+    GZ-CACHE-24:
+    GZ-CACHE-22:
+    GZ-CACHE-17:
+    GZ-CACHE-18:
+    GZ-CACHE-12:
+    GZ-CACHE-26:
+    GZ-CACHE-16:
+    GZ-CACHE-20:
+    GZ-CACHE-14:
+    GZ-CACHE-13:
+    GZ-CACHE-23:
+    GZ-CACHE-25:
+    GZ-CACHE-21:
+    GZ-CACHE-19:
+    GZ-CACHE-15:
+wuxi:
+    WX-CACHE-23:
+    WX-CACHE-34:
+    WX-CACHE-28:
+    WX-CACHE-22:
+    WX-CACHE-32:
+    WX-CACHE-26:
+    WX-CACHE-30:
+    WX-CACHE-25:
+    WX-CACHE-20:
+    WX-CACHE-24:
+    WX-CACHE-35:
+    WX-CACHE-31:
+    WX-CACHE-33:
+    WX-CACHE-27:
+    WX-CACHE-29:
+    WX-CACHE-21:
+shenyang:
+    SY-CACHE-29:
+    SY-CACHE-25:
+    SY-CACHE-27:
+    SY-CACHE-22:
+    SY-CACHE-24:
+    SY-CACHE-14:
+    SY-CACHE-28:
+    SY-CACHE-12:
+    SY-CACHE-18:
+    SY-CACHE-16:
+    SY-CACHE-17:
+    SY-CACHE-23:
+    SY-CACHE-15:
+    SY-CACHE-26:
+    SY-CACHE-19:
+xian:
+    XA-CACHE-13:
+    XA-CACHE-15:
+    XA-CACHE-27:
+    XA-CACHE-24:
+    XA-CACHE-12:
+    XA-CACHE-18:
+    XA-CACHE-16:
+    XA-CACHE-14:
+    XA-CACHE-26:
+    XA-CACHE-17:
+    XA-CACHE-20:
+    XA-CACHE-22:
+    XA-CACHE-19:
+    XA-CACHE-25:
+    XA-CACHE-23:
+    XA-CACHE-21:
+shijiazhuang:
+    SJZ-CACHE-49:
+    SJZ-CACHE-47:
+    SJZ-CACHE-38:
+    SJZ-CACHE-46:
+    SJZ-CACHE-44:
+    SJZ-CACHE-34:
+    SJZ-CACHE-50:
+    SJZ-CACHE-33:
+    SJZ-CACHE-41:
+    SJZ-CACHE-43:
+    SJZ-CACHE-37:
+    SJZ-CACHE-48:
+    SJZ-CACHE-45:
+    SJZ-CACHE-40:
+    SJZ-CACHE-32:
+    SJZ-CACHE-36:
+    SJZ-CACHE-39:
+    SJZ-CACHE-35:
+    SJZ-CACHE-31:
+zhengzhou:
+    ZZ-CACHE-23:
+    ZZ-CACHE-24:
+    ZZ-CACHE-52:
+    ZZ-CACHE-54:
+    ZZ-CACHE-20:
+    ZZ-CACHE-55:
+    ZZ-CACHE-58:
+    ZZ-CACHE-19:
+    ZZ-CACHE-17:
+    ZZ-CACHE-21:
+    ZZ-CACHE-16:
+    ZZ-CACHE-57:
+    ZZ-CACHE-18:
+    ZZ-CACHE-53:
+    ZZ-CACHE-14:
+    ZZ-CACHE-56:
+    ZZ-CACHE-26:
+    ZZ-CACHE-59:
+    ZZ-CACHE-25:
+    ZZ-CACHE-60:
+    ZZ-CACHE-61:
+taiyuan:
+    TY-CACHE-26:
+    TY-CACHE-14:
+    TY-CACHE-16:
+    TY-CACHE-23:
+    TY-CACHE-15:
+    TY-CACHE-13:
+    TY-CACHE-19:
+    TY-CACHE-17:
+    TY-CACHE-25:
+    TY-CACHE-22:
+    TY-CACHE-20:
+    TY-CACHE-18:
+    TY-CACHE-21:
+    TY-CACHE-24:
+    TY-CACHE-27:
+nanning:
+    NNN-CACHE-219:
+    NNN-CACHE-217:
+    NNN-CACHE-215:
+    NNN-CACHE-208:
+    NNN-CACHE-206:
+    NNN-CACHE-164:
+    NNN-CACHE-213:
+    NNN-CACHE-205:
+    NNN-CACHE-212:
+    NNN-CACHE-216:
+    NNN-CACHE-209:
+    NNN-CACHE-211:
+    NNN-CACHE-220:
+    NNN-CACHE-218:
+    NNN-CACHE-214:
+    NNN-CACHE-163:
+    NNN-CACHE-210:
+    NNN-CACHE-207:
+huhehaote:
+    HHHT-CACHE-8:
+    HHHT-CACHE-9:
+    HHHT-CACHE-35:
+    HHHT-CACHE-22:
+    HHHT-CACHE-41:
+    HHHT-CACHE-31:
+    HHHT-CACHE-45:
+    HHHT-CACHE-37:
+    HHHT-CACHE-43:
+    HHHT-CACHE-30:
+    HHHT-CACHE-32:
+    HHHT-CACHE-29:
+    HHHT-CACHE-33:
+    HHHT-CACHE-21:
+    HHHT-CACHE-39:
+    HHHT-CACHE-24:
+    HHHT-CACHE-44:
+    HHHT-CACHE-20:
+    HHHT-CACHE-38:
+    HHHT-CACHE-46:
+    HHHT-CACHE-40:
+    HHHT-CACHE-36:
+    HHHT-CACHE-19:
+    HHHT-CACHE-42:
+hangzhou:
+    HZ-CACHE-13:
+    HZ-CACHE-15:
+    HZ-CACHE-16:
+    HZ-CACHE-26:
+    HZ-CACHE-23:
+    HZ-CACHE-20:
+    HZ-CACHE-25:
+    HZ-CACHE-12:
+    HZ-CACHE-17:
+    HZ-CACHE-19:
+    HZ-CACHE-14:
+    HZ-CACHE-18:
+    HZ-CACHE-24:
+    HZ-CACHE-21:
+    HZ-CACHE-22:
+tianjin:
+    TJ-CACHE-91:
+    TJ-CACHE-89:
+    TJ-CACHE-82:
+    TJ-CACHE-83:
+    TJ-CACHE-80:
+    TJ-CACHE-81:
+    TJ-CACHE-79:
+    TJ-CACHE-85:
+    TJ-CACHE-84:
+    TJ-CACHE-87:
+    TJ-CACHE-93:
+    TJ-CACHE-92:
+    TJ-CACHE-86:
+    TJ-CACHE-88:
+    TJ-CACHE-90:
+zhejiangyidong:
+    ZJYD-CACHE-207:
+    ZJYD-CACHE-205:
+    ZJYD-CACHE-217:
+    ZJYD-CACHE-211:
+    ZJYD-CACHE-213:
+    ZJYD-CACHE-220:
+    ZJYD-CACHE-218:
+    ZJYD-CACHE-222:
+    ZJYD-CACHE-216:
+    ZJYD-CACHE-215:
+    ZJYD-CACHE-212:
+    ZJYD-CACHE-209:
+    ZJYD-CACHE-208:
+    ZJYD-CACHE-214:
+    ZJYD-CACHE-204:
+    ZJYD-CACHE-210:
+    ZJYD-CACHE-206:
+dongguan:
+    DG-CACHE-150:
+    DG-CACHE-146:
+    DG-CACHE-138:
+    DG-CACHE-144:
+    DG-CACHE-141:
+    DG-CACHE-140:
+    DG-CACHE-152:
+    DG-CACHE-142:
+    DG-CACHE-143:
+    DG-CACHE-151:
+    DG-CACHE-139:
+        grep: /tmp/nginx/7/54/a01ac94513f5256f0453220f41f49547: No such file or directory
+        grep: /tmp/nginx/d/3c/ab193e40176511275c33e067c46be3cd: No such file or directory
+    DG-CACHE-145:
+        grep: /tmp/nginx/3/0f/36d9c55a454d8e3bc25399d63a5790f3: No such file or directory
+    DG-CACHE-149:
+    DG-CACHE-147:
+BJ-SQUID-36:
+    grep: /tmp/nginx/7/0b/81be2afb0aeea81b13abe1b703e020b7: No such file or directory
+BJ-SQUID-35:
+BJ-SQUID-33:
+BJ-SQUID-31:
+BJ-SQUID-30:
+BJ-SQUID-32:
+BJ-CACHE-203:
+BJ-CACHE-204:
+BJ-CACHE-200:
+    grep: /usr/local/nginx/cache/7/2c/eb15cb21c83c0494a057a529673612c7: No such file or directory
+    grep: /usr/local/nginx/cache/8/e9/b7220054ca0372eaa4b45ef225260e98: No such file or directory
+BJ-CACHE-202:
+    grep: /usr/local/nginx/cache/f/60/a45bddef0d8e272b4d7f8274c02ce60f: No such file or directory
+BJ-CACHE-201:
+    grep: /usr/local/nginx/cache/9/0d/9d61a1309a11ef7b3cbdacfc8bf120d9: No such file or directory
+    grep: /usr/local/nginx/cache/1/5e/b173f9aaec1e6c85abbf4054713945e1: No such file or directory
+[10/Jan/2014 07:38:37] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+shanxiyidong:
+    SXYD-CACHE-35:
+    SXYD-CACHE-33:
+    SXYD-CACHE-15:
+    SXYD-CACHE-39:
+    SXYD-CACHE-41:
+    SXYD-CACHE-37:
+    SXYD-CACHE-14:
+    SXYD-CACHE-36:
+    SXYD-CACHE-32:
+    SXYD-CACHE-40:
+    SXYD-CACHE-34:
+    SXYD-CACHE-42:
+    SXYD-CACHE-38:
+guangzhou:
+    GZ-CACHE-22:
+    GZ-CACHE-24:
+    GZ-CACHE-18:
+    GZ-CACHE-26:
+    GZ-CACHE-12:
+    GZ-CACHE-16:
+    GZ-CACHE-20:
+    GZ-CACHE-14:
+    GZ-CACHE-17:
+    GZ-CACHE-25:
+    GZ-CACHE-21:
+    GZ-CACHE-23:
+    GZ-CACHE-13:
+    GZ-CACHE-19:
+    GZ-CACHE-15:
+wuxi:
+    WX-CACHE-34:
+    WX-CACHE-30:
+    WX-CACHE-26:
+    WX-CACHE-22:
+    WX-CACHE-24:
+    WX-CACHE-32:
+    WX-CACHE-23:
+    WX-CACHE-28:
+    WX-CACHE-20:
+    WX-CACHE-35:
+    WX-CACHE-31:
+    WX-CACHE-29:
+    WX-CACHE-33:
+    WX-CACHE-25:
+    WX-CACHE-27:
+    WX-CACHE-21:
+xian:
+    XA-CACHE-13:
+    XA-CACHE-27:
+    XA-CACHE-15:
+    XA-CACHE-24:
+    XA-CACHE-14:
+    XA-CACHE-16:
+    XA-CACHE-12:
+    XA-CACHE-18:
+    XA-CACHE-26:
+    XA-CACHE-20:
+    XA-CACHE-25:
+    XA-CACHE-22:
+    XA-CACHE-23:
+    XA-CACHE-19:
+    XA-CACHE-21:
+    XA-CACHE-17:
+taiyuan:
+    TY-CACHE-14:
+    TY-CACHE-26:
+    TY-CACHE-16:
+    TY-CACHE-15:
+    TY-CACHE-13:
+    TY-CACHE-19:
+    TY-CACHE-17:
+    TY-CACHE-23:
+    TY-CACHE-22:
+    TY-CACHE-25:
+    TY-CACHE-20:
+    TY-CACHE-18:
+    TY-CACHE-24:
+    TY-CACHE-21:
+    TY-CACHE-27:
+shijiazhuang:
+    SJZ-CACHE-49:
+    SJZ-CACHE-47:
+    SJZ-CACHE-38:
+    SJZ-CACHE-44:
+    SJZ-CACHE-46:
+    SJZ-CACHE-34:
+    SJZ-CACHE-50:
+    SJZ-CACHE-33:
+    SJZ-CACHE-41:
+    SJZ-CACHE-43:
+    SJZ-CACHE-37:
+    SJZ-CACHE-31:
+    SJZ-CACHE-48:
+    SJZ-CACHE-32:
+    SJZ-CACHE-40:
+    SJZ-CACHE-45:
+    SJZ-CACHE-39:
+    SJZ-CACHE-35:
+    SJZ-CACHE-36:
+zhengzhou:
+    ZZ-CACHE-23:
+    ZZ-CACHE-24:
+    ZZ-CACHE-52:
+    ZZ-CACHE-54:
+    ZZ-CACHE-20:
+    ZZ-CACHE-16:
+    ZZ-CACHE-58:
+    ZZ-CACHE-14:
+    ZZ-CACHE-18:
+    ZZ-CACHE-26:
+    ZZ-CACHE-57:
+    ZZ-CACHE-56:
+    ZZ-CACHE-55:
+    ZZ-CACHE-53:
+    ZZ-CACHE-59:
+    ZZ-CACHE-60:
+    ZZ-CACHE-17:
+    ZZ-CACHE-21:
+    ZZ-CACHE-25:
+    ZZ-CACHE-19:
+    ZZ-CACHE-61:
+shenyang:
+    SY-CACHE-29:
+    SY-CACHE-25:
+    SY-CACHE-27:
+    SY-CACHE-22:
+    SY-CACHE-12:
+    SY-CACHE-18:
+    SY-CACHE-14:
+    SY-CACHE-15:
+    SY-CACHE-19:
+    SY-CACHE-16:
+    SY-CACHE-17:
+    SY-CACHE-23:
+    SY-CACHE-28:
+    SY-CACHE-24:
+    SY-CACHE-26:
+nanning:
+    NNN-CACHE-219:
+    NNN-CACHE-217:
+    NNN-CACHE-215:
+    NNN-CACHE-164:
+    NNN-CACHE-213:
+    NNN-CACHE-216:
+    NNN-CACHE-205:
+    NNN-CACHE-208:
+    NNN-CACHE-209:
+    NNN-CACHE-211:
+    NNN-CACHE-206:
+    NNN-CACHE-220:
+    NNN-CACHE-212:
+    NNN-CACHE-218:
+    NNN-CACHE-214:
+    NNN-CACHE-163:
+    NNN-CACHE-210:
+    NNN-CACHE-207:
+hangzhou:
+    HZ-CACHE-13:
+    HZ-CACHE-15:
+    HZ-CACHE-16:
+    HZ-CACHE-26:
+    HZ-CACHE-20:
+    HZ-CACHE-12:
+    HZ-CACHE-17:
+    HZ-CACHE-24:
+    HZ-CACHE-18:
+    HZ-CACHE-25:
+    HZ-CACHE-14:
+    HZ-CACHE-23:
+    HZ-CACHE-19:
+    HZ-CACHE-22:
+    HZ-CACHE-21:
+huhehaote:
+    HHHT-CACHE-8:
+    HHHT-CACHE-9:
+    HHHT-CACHE-41:
+    HHHT-CACHE-35:
+    HHHT-CACHE-37:
+    HHHT-CACHE-45:
+    HHHT-CACHE-31:
+    HHHT-CACHE-43:
+    HHHT-CACHE-29:
+    HHHT-CACHE-21:
+    HHHT-CACHE-33:
+    HHHT-CACHE-39:
+    HHHT-CACHE-22:
+    HHHT-CACHE-44:
+    HHHT-CACHE-32:
+    HHHT-CACHE-30:
+    HHHT-CACHE-24:
+    HHHT-CACHE-46:
+    HHHT-CACHE-38:
+    HHHT-CACHE-40:
+    HHHT-CACHE-20:
+    HHHT-CACHE-42:
+    HHHT-CACHE-36:
+    HHHT-CACHE-19:
+tianjin:
+    TJ-CACHE-91:
+    TJ-CACHE-89:
+    TJ-CACHE-83:
+    TJ-CACHE-81:
+    TJ-CACHE-79:
+    TJ-CACHE-85:
+    TJ-CACHE-93:
+    TJ-CACHE-80:
+    TJ-CACHE-82:
+    TJ-CACHE-87:
+    TJ-CACHE-84:
+    TJ-CACHE-86:
+    TJ-CACHE-92:
+    TJ-CACHE-88:
+    TJ-CACHE-90:
+zhejiangyidong:
+    ZJYD-CACHE-207:
+    ZJYD-CACHE-205:
+    ZJYD-CACHE-217:
+    ZJYD-CACHE-220:
+    ZJYD-CACHE-218:
+    ZJYD-CACHE-222:
+    ZJYD-CACHE-216:
+    ZJYD-CACHE-212:
+    ZJYD-CACHE-211:
+    ZJYD-CACHE-213:
+    ZJYD-CACHE-208:
+    ZJYD-CACHE-215:
+    ZJYD-CACHE-209:
+    ZJYD-CACHE-214:
+    ZJYD-CACHE-204:
+    ZJYD-CACHE-210:
+    ZJYD-CACHE-206:
+dongguan:
+    DG-CACHE-150:
+    DG-CACHE-146:
+    DG-CACHE-144:
+    DG-CACHE-152:
+    DG-CACHE-142:
+    DG-CACHE-138:
+    DG-CACHE-140:
+    DG-CACHE-141:
+    DG-CACHE-151:
+    DG-CACHE-143:
+    DG-CACHE-149:
+    DG-CACHE-145:
+    DG-CACHE-139:
+    DG-CACHE-147:
+BJ-SQUID-36:
+BJ-SQUID-35:
+BJ-SQUID-31:
+BJ-SQUID-30:
+BJ-SQUID-33:
+BJ-SQUID-32:
+BJ-CACHE-202:
+BJ-CACHE-200:
+    grep: /usr/local/nginx/cache/5/fe/068d01ecf9c8dc533230db45dc4d5fe5: No such file or directory
+BJ-CACHE-201:
+    grep: /usr/local/nginx/cache/f/26/2928f50b3e9cfccc398ce7e9373ff26f: No such file or directory
+BJ-CACHE-203:
+BJ-CACHE-204:
+[10/Jan/2014 07:40:12] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+guangzhou:
+    GZ-CACHE-24:
+    GZ-CACHE-22:
+    GZ-CACHE-18:
+    GZ-CACHE-17:
+    GZ-CACHE-16:
+    GZ-CACHE-15:
+    GZ-CACHE-26:
+    GZ-CACHE-12:
+    GZ-CACHE-20:
+    GZ-CACHE-14:
+    GZ-CACHE-13:
+    GZ-CACHE-21:
+    GZ-CACHE-25:
+    GZ-CACHE-23:
+    GZ-CACHE-19:
+wuxi:
+    WX-CACHE-34:
+    WX-CACHE-23:
+    WX-CACHE-21:
+    WX-CACHE-22:
+    WX-CACHE-25:
+    WX-CACHE-28:
+    WX-CACHE-26:
+    WX-CACHE-20:
+    WX-CACHE-30:
+    WX-CACHE-32:
+    WX-CACHE-24:
+    WX-CACHE-35:
+    WX-CACHE-27:
+    WX-CACHE-31:
+    WX-CACHE-33:
+    WX-CACHE-29:
+shanxiyidong:
+    SXYD-CACHE-41:
+    SXYD-CACHE-33:
+    SXYD-CACHE-35:
+    SXYD-CACHE-39:
+    SXYD-CACHE-15:
+    SXYD-CACHE-38:
+    SXYD-CACHE-40:
+    SXYD-CACHE-37:
+    SXYD-CACHE-14:
+    SXYD-CACHE-42:
+    SXYD-CACHE-36:
+    SXYD-CACHE-34:
+    SXYD-CACHE-32:
+xian:
+    XA-CACHE-24:
+    XA-CACHE-13:
+    XA-CACHE-15:
+    XA-CACHE-27:
+    XA-CACHE-21:
+    XA-CACHE-14:
+    XA-CACHE-16:
+    XA-CACHE-12:
+    XA-CACHE-18:
+    XA-CACHE-26:
+    XA-CACHE-20:
+    XA-CACHE-25:
+    XA-CACHE-22:
+    XA-CACHE-17:
+    XA-CACHE-19:
+    XA-CACHE-23:
+zhengzhou:
+    ZZ-CACHE-23:
+    ZZ-CACHE-52:
+    ZZ-CACHE-24:
+    ZZ-CACHE-54:
+    ZZ-CACHE-60:
+    ZZ-CACHE-21:
+    ZZ-CACHE-55:
+    ZZ-CACHE-20:
+    ZZ-CACHE-17:
+    ZZ-CACHE-16:
+    ZZ-CACHE-19:
+    ZZ-CACHE-58:
+    ZZ-CACHE-14:
+    ZZ-CACHE-57:
+    ZZ-CACHE-18:
+    ZZ-CACHE-53:
+    ZZ-CACHE-56:
+    ZZ-CACHE-26:
+    ZZ-CACHE-59:
+    ZZ-CACHE-25:
+    ZZ-CACHE-61:
+shenyang:
+    SY-CACHE-29:
+    SY-CACHE-25:
+    SY-CACHE-27:
+    SY-CACHE-14:
+    SY-CACHE-28:
+    SY-CACHE-22:
+    SY-CACHE-23:
+    SY-CACHE-24:
+    SY-CACHE-18:
+    SY-CACHE-12:
+    SY-CACHE-15:
+    SY-CACHE-19:
+    SY-CACHE-26:
+    SY-CACHE-17:
+    SY-CACHE-16:
+taiyuan:
+    TY-CACHE-14:
+    TY-CACHE-26:
+    TY-CACHE-16:
+    TY-CACHE-27:
+    TY-CACHE-23:
+    TY-CACHE-15:
+    TY-CACHE-21:
+    TY-CACHE-13:
+    TY-CACHE-19:
+    TY-CACHE-25:
+    TY-CACHE-17:
+    TY-CACHE-22:
+    TY-CACHE-20:
+    TY-CACHE-18:
+    TY-CACHE-24:
+nanning:
+    NNN-CACHE-217:
+    NNN-CACHE-219:
+    NNN-CACHE-215:
+    NNN-CACHE-208:
+    NNN-CACHE-163:
+    NNN-CACHE-207:
+    NNN-CACHE-206:
+    NNN-CACHE-164:
+    NNN-CACHE-213:
+    NNN-CACHE-216:
+    NNN-CACHE-212:
+    NNN-CACHE-209:
+    NNN-CACHE-205:
+    NNN-CACHE-211:
+    NNN-CACHE-220:
+    NNN-CACHE-218:
+    NNN-CACHE-214:
+    NNN-CACHE-210:
+shijiazhuang:
+    SJZ-CACHE-47:
+    SJZ-CACHE-44:
+    SJZ-CACHE-49:
+    SJZ-CACHE-38:
+    SJZ-CACHE-46:
+    SJZ-CACHE-34:
+    SJZ-CACHE-43:
+    SJZ-CACHE-32:
+    SJZ-CACHE-36:
+    SJZ-CACHE-33:
+    SJZ-CACHE-50:
+    SJZ-CACHE-45:
+    SJZ-CACHE-41:
+    SJZ-CACHE-31:
+    SJZ-CACHE-48:
+    SJZ-CACHE-40:
+    SJZ-CACHE-37:
+    SJZ-CACHE-39:
+    SJZ-CACHE-35:
+hangzhou:
+    HZ-CACHE-13:
+    HZ-CACHE-15:
+    HZ-CACHE-16:
+    HZ-CACHE-25:
+    HZ-CACHE-21:
+    HZ-CACHE-23:
+    HZ-CACHE-26:
+    HZ-CACHE-20:
+    HZ-CACHE-19:
+    HZ-CACHE-17:
+    HZ-CACHE-12:
+    HZ-CACHE-24:
+    HZ-CACHE-14:
+    HZ-CACHE-18:
+    HZ-CACHE-22:
+        grep: /tmp/nginx/7/63/ab5bcf03d9bfb20156cc4de97eaa5637: No such file or directory
+huhehaote:
+    HHHT-CACHE-8:
+    HHHT-CACHE-9:
+    HHHT-CACHE-19:
+    HHHT-CACHE-41:
+    HHHT-CACHE-20:
+    HHHT-CACHE-22:
+    HHHT-CACHE-35:
+    HHHT-CACHE-45:
+    HHHT-CACHE-37:
+    HHHT-CACHE-32:
+    HHHT-CACHE-29:
+    HHHT-CACHE-30:
+    HHHT-CACHE-31:
+    HHHT-CACHE-21:
+    HHHT-CACHE-39:
+    HHHT-CACHE-33:
+    HHHT-CACHE-43:
+    HHHT-CACHE-44:
+    HHHT-CACHE-24:
+    HHHT-CACHE-38:
+        grep: /tmp/nginx/d/ee/3065507c4cdf587cdf3e506922f5feed: No such file or directory
+    HHHT-CACHE-46:
+    HHHT-CACHE-40:
+    HHHT-CACHE-42:
+    HHHT-CACHE-36:
+tianjin:
+    TJ-CACHE-91:
+    TJ-CACHE-89:
+    TJ-CACHE-87:
+    TJ-CACHE-84:
+    TJ-CACHE-80:
+    TJ-CACHE-82:
+    TJ-CACHE-83:
+    TJ-CACHE-81:
+    TJ-CACHE-93:
+    TJ-CACHE-79:
+    TJ-CACHE-85:
+    TJ-CACHE-92:
+    TJ-CACHE-86:
+    TJ-CACHE-88:
+    TJ-CACHE-90:
+zhejiangyidong:
+    ZJYD-CACHE-205:
+    ZJYD-CACHE-207:
+    ZJYD-CACHE-217:
+    ZJYD-CACHE-209:
+    ZJYD-CACHE-214:
+    ZJYD-CACHE-211:
+    ZJYD-CACHE-213:
+    ZJYD-CACHE-220:
+    ZJYD-CACHE-218:
+    ZJYD-CACHE-216:
+    ZJYD-CACHE-215:
+    ZJYD-CACHE-222:
+    ZJYD-CACHE-212:
+    ZJYD-CACHE-208:
+    ZJYD-CACHE-204:
+    ZJYD-CACHE-210:
+    ZJYD-CACHE-206:
+dongguan:
+    DG-CACHE-150:
+    DG-CACHE-146:
+    DG-CACHE-144:
+    DG-CACHE-141:
+    DG-CACHE-138:
+    DG-CACHE-152:
+    DG-CACHE-139:
+    DG-CACHE-142:
+    DG-CACHE-140:
+    DG-CACHE-143:
+    DG-CACHE-151:
+    DG-CACHE-145:
+    DG-CACHE-149:
+    DG-CACHE-147:
+BJ-SQUID-36:
+    grep: /tmp/nginx/3/91/9527a6fdb194b0c90e6d9384061c1913: No such file or directory
+BJ-SQUID-35:
+BJ-SQUID-33:
+    grep: /tmp/nginx/d/d5/6a22769878d9f3042ce6ad848463cd5d: No such file or directory
+BJ-SQUID-32:
+BJ-SQUID-30:
+BJ-SQUID-31:
+    grep: /tmp/nginx/2/e3/d1ae99a3b5aee1f8a1b66abe31e35e32: No such file or directory
+    grep: /tmp/nginx/5/b7/29ce32412832937e92d78c887261eb75: No such file or directory
+BJ-CACHE-203:
+BJ-CACHE-204:
+BJ-CACHE-200:
+    grep: /usr/local/nginx/cache/7/d8/0a9e055ca5da475a7c1cba36d1f09d87: No such file or directory
+BJ-CACHE-201:
+BJ-CACHE-202:
+[14/Jan/2014 18:47:56] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+wuxi:
+    WX-CACHE-43:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-44:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-20:
+    WX-CACHE-23:
+    WX-CACHE-34:
+    WX-CACHE-26:
+    WX-CACHE-31:
+        grep: /tmp/nginx/8/78/056cd6ee38159207d55f0c360e0c4788: No such file or directory
+    WX-CACHE-32:
+    WX-CACHE-24:
+    WX-CACHE-35:
+    WX-CACHE-30:
+    WX-CACHE-28:
+    WX-CACHE-22:
+    WX-CACHE-33:
+    WX-CACHE-25:
+    WX-CACHE-29:
+    WX-CACHE-27:
+    WX-CACHE-21:
+shanxiyidong:
+    SXYD-CACHE-35:
+    SXYD-CACHE-33:
+    SXYD-CACHE-15:
+    SXYD-CACHE-41:
+    SXYD-CACHE-39:
+    SXYD-CACHE-37:
+    SXYD-CACHE-14:
+    SXYD-CACHE-36:
+    SXYD-CACHE-40:
+    SXYD-CACHE-34:
+    SXYD-CACHE-32:
+    SXYD-CACHE-42:
+    SXYD-CACHE-38:
+guangzhou:
+    GZ-CACHE-24:
+    GZ-CACHE-22:
+    GZ-CACHE-18:
+    GZ-CACHE-20:
+    GZ-CACHE-12:
+    GZ-CACHE-16:
+    GZ-CACHE-14:
+    GZ-CACHE-25:
+    GZ-CACHE-21:
+    GZ-CACHE-17:
+    GZ-CACHE-26:
+    GZ-CACHE-19:
+    GZ-CACHE-23:
+    GZ-CACHE-13:
+    GZ-CACHE-15:
+xian:
+    XA-CACHE-15:
+    XA-CACHE-13:
+    XA-CACHE-27:
+    XA-CACHE-14:
+    XA-CACHE-12:
+    XA-CACHE-24:
+    XA-CACHE-16:
+    XA-CACHE-18:
+    XA-CACHE-26:
+    XA-CACHE-20:
+    XA-CACHE-22:
+    XA-CACHE-25:
+    XA-CACHE-23:
+    XA-CACHE-17:
+    XA-CACHE-19:
+    XA-CACHE-21:
+taiyuan:
+    TY-CACHE-26:
+    TY-CACHE-16:
+    TY-CACHE-14:
+    TY-CACHE-15:
+    TY-CACHE-13:
+    TY-CACHE-19:
+    TY-CACHE-17:
+    TY-CACHE-23:
+    TY-CACHE-22:
+    TY-CACHE-25:
+    TY-CACHE-20:
+        grep: /tmp/nginx/4/1a/0392a863ece5f8f07145705c5788f1a4: No such file or directory
+    TY-CACHE-18:
+    TY-CACHE-24:
+    TY-CACHE-27:
+    TY-CACHE-21:
+shenyang:
+    SY-CACHE-29:
+    SY-CACHE-25:
+    SY-CACHE-27:
+    SY-CACHE-22:
+    SY-CACHE-12:
+    SY-CACHE-18:
+    SY-CACHE-14:
+    SY-CACHE-15:
+    SY-CACHE-19:
+    SY-CACHE-17:
+    SY-CACHE-16:
+    SY-CACHE-23:
+    SY-CACHE-28:
+    SY-CACHE-24:
+    SY-CACHE-26:
+        grep: /tmp/nginx/0/1a/22a803445822ea639e10f737ff0611a0: No such file or directory
+fuzhou:
+    FZ-CACHE-8:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-5:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-40:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-24:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-39:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-25:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-7:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-26:
+    FZ-CACHE-12:
+    FZ-CACHE-14:
+    FZ-CACHE-36:
+    FZ-CACHE-16:
+    FZ-CACHE-18:
+    FZ-CACHE-27:
+    FZ-CACHE-15:
+    FZ-CACHE-17:
+    FZ-CACHE-19:
+        grep: /tmp/nginx/d/a0/f6088ff0346f3f3f65c84f5ac4ca4a0d: No such file or directory
+    FZ-CACHE-37:
+    FZ-CACHE-13:
+shijiazhuang:
+    SJZ-CACHE-46:
+    SJZ-CACHE-44:
+    SJZ-CACHE-47:
+    SJZ-CACHE-38:
+    SJZ-CACHE-49:
+    SJZ-CACHE-41:
+    SJZ-CACHE-50:
+    SJZ-CACHE-43:
+    SJZ-CACHE-34:
+    SJZ-CACHE-37:
+    SJZ-CACHE-40:
+    SJZ-CACHE-33:
+    SJZ-CACHE-48:
+    SJZ-CACHE-45:
+    SJZ-CACHE-39:
+    SJZ-CACHE-35:
+    SJZ-CACHE-31:
+    SJZ-CACHE-32:
+    SJZ-CACHE-36:
+nanning:
+    NNN-CACHE-219:
+    NNN-CACHE-217:
+    NNN-CACHE-215:
+    NNN-CACHE-164:
+    NNN-CACHE-213:
+    NNN-CACHE-208:
+    NNN-CACHE-216:
+    NNN-CACHE-209:
+    NNN-CACHE-211:
+    NNN-CACHE-206:
+    NNN-CACHE-220:
+    NNN-CACHE-212:
+    NNN-CACHE-205:
+    NNN-CACHE-214:
+    NNN-CACHE-218:
+    NNN-CACHE-163:
+    NNN-CACHE-210:
+    NNN-CACHE-207:
+zhengzhou:
+    ZZ-CACHE-23:
+    ZZ-CACHE-52:
+    ZZ-CACHE-54:
+    ZZ-CACHE-24:
+    ZZ-CACHE-20:
+    ZZ-CACHE-58:
+    ZZ-CACHE-57:
+    ZZ-CACHE-59:
+    ZZ-CACHE-53:
+    ZZ-CACHE-26:
+    ZZ-CACHE-55:
+    ZZ-CACHE-25:
+    ZZ-CACHE-21:
+    ZZ-CACHE-16:
+    ZZ-CACHE-14:
+    ZZ-CACHE-18:
+    ZZ-CACHE-56:
+    ZZ-CACHE-60:
+    ZZ-CACHE-17:
+    ZZ-CACHE-19:
+        grep: /tmp/nginx/1/9e/723a6c5ea02992d040871089dfc779e1: No such file or directory
+    ZZ-CACHE-61:
+zhejiangyidong:
+    ZJYD-CACHE-207:
+    ZJYD-CACHE-205:
+    ZJYD-CACHE-217:
+    ZJYD-CACHE-220:
+    ZJYD-CACHE-222:
+    ZJYD-CACHE-211:
+    ZJYD-CACHE-216:
+    ZJYD-CACHE-218:
+    ZJYD-CACHE-212:
+    ZJYD-CACHE-213:
+    ZJYD-CACHE-208:
+    ZJYD-CACHE-215:
+    ZJYD-CACHE-209:
+    ZJYD-CACHE-214:
+    ZJYD-CACHE-204:
+    ZJYD-CACHE-210:
+    ZJYD-CACHE-206:
+huhehaote:
+    HHHT-CACHE-47:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-48:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-8:
+    HHHT-CACHE-9:
+    HHHT-CACHE-41:
+    HHHT-CACHE-31:
+    HHHT-CACHE-45:
+    HHHT-CACHE-29:
+    HHHT-CACHE-35:
+    HHHT-CACHE-37:
+    HHHT-CACHE-21:
+    HHHT-CACHE-22:
+    HHHT-CACHE-33:
+    HHHT-CACHE-43:
+    HHHT-CACHE-44:
+    HHHT-CACHE-30:
+    HHHT-CACHE-39:
+    HHHT-CACHE-32:
+    HHHT-CACHE-20:
+    HHHT-CACHE-24:
+    HHHT-CACHE-46:
+    HHHT-CACHE-40:
+    HHHT-CACHE-38:
+    HHHT-CACHE-42:
+    HHHT-CACHE-19:
+    HHHT-CACHE-36:
+tianjin:
+    TJ-CACHE-91:
+    TJ-CACHE-89:
+    TJ-CACHE-93:
+    TJ-CACHE-81:
+    TJ-CACHE-79:
+    TJ-CACHE-83:
+    TJ-CACHE-82:
+    TJ-CACHE-85:
+    TJ-CACHE-80:
+    TJ-CACHE-84:
+    TJ-CACHE-86:
+    TJ-CACHE-87:
+    TJ-CACHE-92:
+    TJ-CACHE-88:
+    TJ-CACHE-90:
+hangzhou:
+    HZ-CACHE-13:
+    HZ-CACHE-15:
+    HZ-CACHE-16:
+    HZ-CACHE-17:
+    HZ-CACHE-20:
+    HZ-CACHE-24:
+    HZ-CACHE-12:
+    HZ-CACHE-23:
+    HZ-CACHE-25:
+    HZ-CACHE-26:
+    HZ-CACHE-14:
+    HZ-CACHE-18:
+    HZ-CACHE-19:
+    HZ-CACHE-21:
+    HZ-CACHE-22:
+dongguan:
+    DG-CACHE-146:
+    DG-CACHE-150:
+    DG-CACHE-138:
+    DG-CACHE-144:
+    DG-CACHE-140:
+    DG-CACHE-142:
+    DG-CACHE-152:
+    DG-CACHE-141:
+    DG-CACHE-151:
+    DG-CACHE-143:
+    DG-CACHE-145:
+    DG-CACHE-149:
+    DG-CACHE-139:
+        grep: /tmp/nginx/2/2e/02cb558a6549a6b082f71d0957dba2e2: No such file or directory
+        grep: /tmp/nginx/e/53/a204536b1caa70606c2a8eb55830553e: No such file or directory
+    DG-CACHE-147:
+        grep: /tmp/nginx/d/83/c431f01d8e8dcfa1deaf92d45043383d: No such file or directory
+BJ-SQUID-36:
+    grep: /tmp/nginx/8/f8/ec56d4adf58b513030dcee7fabae3f88: No such file or directory
+BJ-SQUID-35:
+BJ-SQUID-32:
+BJ-SQUID-33:
+    grep: /tmp/nginx/7/3b/ca511f42ced8477843a91e0f4c3963b7: No such file or directory
+BJ-SQUID-30:
+BJ-SQUID-31:
+BJ-CACHE-203:
+BJ-CACHE-204:
+BJ-CACHE-202:
+    grep: /usr/local/nginx/cache/6/cc/fb54c842d31a7bef76caec4a43e2dcc6.1045998452: No such file or directory
+BJ-CACHE-200:
+    grep: /usr/local/nginx/cache/e/f6/a5dedc236b254bcef63eb78cfb999f6e: No such file or directory
+    grep: /usr/local/nginx/cache/7/bf/43cf9752678f8045fa7a6e36c7c77bf7: No such file or directory
+    grep: /usr/local/nginx/cache/a/0a/fc006b749f0bbd32ab7c134e9f7d70aa: No such file or directory
+    grep: /usr/local/nginx/cache/a/0a/f4bf42382e7a1152976ab12b91d6a0aa: No such file or directory
+BJ-CACHE-201:
+    grep: /usr/local/nginx/cache/f/28/2fc94a3ea8e036e91c8045f891b5928f: No such file or directory
+    grep: /usr/local/nginx/cache/6/f0/c2f020d589a3acad189a3a33d8c72f06: No such file or directory
+    grep: /usr/local/nginx/cache/7/18/d629576c1c8cbeef4dcc8b606482f187: No such file or directory
+    grep: /usr/local/nginx/cache/3/7c/cd7e629c45005f55f01ebb5ad1ea77c3: No such file or directory
+[15/Jan/2014 17:41:45] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+shanxiyidong:
+    SXYD-CACHE-33:
+    SXYD-CACHE-35:
+    SXYD-CACHE-41:
+    SXYD-CACHE-15:
+    SXYD-CACHE-39:
+    SXYD-CACHE-37:
+    SXYD-CACHE-14:
+    SXYD-CACHE-36:
+    SXYD-CACHE-40:
+    SXYD-CACHE-34:
+        grep: /tmp/nginx/3/22/6236f42ba6bb0ff7e8fb2f35c6def223: No such file or directory
+    SXYD-CACHE-32:
+    SXYD-CACHE-42:
+    SXYD-CACHE-38:
+guangzhou:
+    GZ-CACHE-22:
+    GZ-CACHE-24:
+    GZ-CACHE-20:
+    GZ-CACHE-18:
+    GZ-CACHE-16:
+    GZ-CACHE-14:
+    GZ-CACHE-12:
+    GZ-CACHE-26:
+    GZ-CACHE-17:
+    GZ-CACHE-21:
+    GZ-CACHE-25:
+    GZ-CACHE-23:
+    GZ-CACHE-19:
+    GZ-CACHE-13:
+    GZ-CACHE-15:
+xian:
+    XA-CACHE-13:
+    XA-CACHE-27:
+    XA-CACHE-15:
+    XA-CACHE-14:
+    XA-CACHE-24:
+    XA-CACHE-12:
+    XA-CACHE-18:
+    XA-CACHE-16:
+    XA-CACHE-26:
+    XA-CACHE-20:
+    XA-CACHE-22:
+    XA-CACHE-25:
+    XA-CACHE-23:
+        grep: /tmp/nginx/9/57/a0d10f2a7f77f33899462b80c9130579: No such file or directory
+    XA-CACHE-17:
+    XA-CACHE-19:
+    XA-CACHE-21:
+taiyuan:
+    TY-CACHE-26:
+    TY-CACHE-16:
+    TY-CACHE-14:
+    TY-CACHE-15:
+    TY-CACHE-13:
+    TY-CACHE-19:
+    TY-CACHE-17:
+    TY-CACHE-23:
+    TY-CACHE-22:
+    TY-CACHE-25:
+    TY-CACHE-20:
+    TY-CACHE-18:
+    TY-CACHE-27:
+    TY-CACHE-21:
+        grep: /tmp/nginx/0/fb/318bf40fb7e61f999fd92d258746ffb0: No such file or directory
+    TY-CACHE-24:
+shijiazhuang:
+    SJZ-CACHE-38:
+    SJZ-CACHE-49:
+    SJZ-CACHE-46:
+    SJZ-CACHE-47:
+    SJZ-CACHE-44:
+    SJZ-CACHE-50:
+    SJZ-CACHE-34:
+    SJZ-CACHE-43:
+    SJZ-CACHE-40:
+    SJZ-CACHE-33:
+    SJZ-CACHE-41:
+    SJZ-CACHE-35:
+    SJZ-CACHE-37:
+    SJZ-CACHE-39:
+    SJZ-CACHE-48:
+    SJZ-CACHE-31:
+    SJZ-CACHE-45:
+    SJZ-CACHE-32:
+    SJZ-CACHE-36:
+shenyang:
+    SY-CACHE-29:
+    SY-CACHE-25:
+    SY-CACHE-27:
+    SY-CACHE-22:
+    SY-CACHE-12:
+    SY-CACHE-14:
+    SY-CACHE-15:
+    SY-CACHE-18:
+    SY-CACHE-19:
+    SY-CACHE-17:
+    SY-CACHE-28:
+    SY-CACHE-16:
+    SY-CACHE-23:
+    SY-CACHE-24:
+    SY-CACHE-26:
+zhengzhou:
+    ZZ-CACHE-35:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-31:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-36:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-52:
+    ZZ-CACHE-24:
+    ZZ-CACHE-54:
+    ZZ-CACHE-23:
+    ZZ-CACHE-20:
+    ZZ-CACHE-58:
+    ZZ-CACHE-57:
+    ZZ-CACHE-53:
+    ZZ-CACHE-16:
+    ZZ-CACHE-14:
+    ZZ-CACHE-18:
+    ZZ-CACHE-26:
+    ZZ-CACHE-55:
+    ZZ-CACHE-59:
+    ZZ-CACHE-56:
+    ZZ-CACHE-21:
+    ZZ-CACHE-60:
+    ZZ-CACHE-19:
+    ZZ-CACHE-17:
+    ZZ-CACHE-25:
+    ZZ-CACHE-61:
+fuzhou:
+    FZ-CACHE-5:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-7:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-8:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-39:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-40:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-25:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-24:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-26:
+    FZ-CACHE-12:
+    FZ-CACHE-14:
+    FZ-CACHE-18:
+    FZ-CACHE-36:
+    FZ-CACHE-16:
+    FZ-CACHE-27:
+    FZ-CACHE-17:
+    FZ-CACHE-15:
+    FZ-CACHE-19:
+    FZ-CACHE-37:
+    FZ-CACHE-13:
+nanning:
+    NNN-CACHE-217:
+    NNN-CACHE-219:
+    NNN-CACHE-215:
+    NNN-CACHE-164:
+    NNN-CACHE-213:
+    NNN-CACHE-205:
+    NNN-CACHE-208:
+    NNN-CACHE-216:
+    NNN-CACHE-209:
+    NNN-CACHE-206:
+    NNN-CACHE-211:
+    NNN-CACHE-220:
+    NNN-CACHE-214:
+    NNN-CACHE-218:
+    NNN-CACHE-212:
+    NNN-CACHE-163:
+    NNN-CACHE-210:
+    NNN-CACHE-207:
+zhejiangyidong:
+    ZJYD-CACHE-207:
+    ZJYD-CACHE-205:
+    ZJYD-CACHE-217:
+    ZJYD-CACHE-220:
+    ZJYD-CACHE-222:
+    ZJYD-CACHE-216:
+    ZJYD-CACHE-211:
+    ZJYD-CACHE-218:
+    ZJYD-CACHE-212:
+        grep: /tmp/nginx/5/cc/e5cfbcef193a9b0cfcaf076c178facc5: No such file or directory
+    ZJYD-CACHE-213:
+    ZJYD-CACHE-208:
+    ZJYD-CACHE-209:
+    ZJYD-CACHE-215:
+    ZJYD-CACHE-214:
+    ZJYD-CACHE-204:
+    ZJYD-CACHE-210:
+        grep: /tmp/nginx/e/9b/989885719790bc04faf4c29169d4c9be: No such file or directory
+    ZJYD-CACHE-206:
+        grep: /tmp/nginx/1/7f/242505fd957a70c95207600c30b8a7f1: No such file or directory
+huhehaote:
+    HHHT-CACHE-48:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-47:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-9:
+    HHHT-CACHE-8:
+    HHHT-CACHE-41:
+    HHHT-CACHE-45:
+    HHHT-CACHE-29:
+    HHHT-CACHE-31:
+    HHHT-CACHE-37:
+    HHHT-CACHE-35:
+    HHHT-CACHE-21:
+    HHHT-CACHE-22:
+    HHHT-CACHE-43:
+    HHHT-CACHE-33:
+    HHHT-CACHE-44:
+    HHHT-CACHE-30:
+    HHHT-CACHE-39:
+    HHHT-CACHE-32:
+    HHHT-CACHE-20:
+    HHHT-CACHE-46:
+    HHHT-CACHE-38:
+    HHHT-CACHE-40:
+    HHHT-CACHE-24:
+    HHHT-CACHE-42:
+    HHHT-CACHE-19:
+        grep: /tmp/nginx/e/f5/ef8a88c462b4e306c41c2c8f52b49f5e: No such file or directory
+    HHHT-CACHE-36:
+tianjin:
+    TJ-CACHE-91:
+    TJ-CACHE-89:
+    TJ-CACHE-83:
+    TJ-CACHE-79:
+    TJ-CACHE-81:
+    TJ-CACHE-85:
+    TJ-CACHE-93:
+    TJ-CACHE-82:
+    TJ-CACHE-84:
+    TJ-CACHE-80:
+        grep: /tmp/nginx/7/dd/ec9b88db68d1938fb4ee20335ca57dd7: No such file or directory
+    TJ-CACHE-87:
+    TJ-CACHE-86:
+    TJ-CACHE-92:
+    TJ-CACHE-88:
+    TJ-CACHE-90:
+hangzhou:
+    HZ-CACHE-13:
+    HZ-CACHE-15:
+    HZ-CACHE-16:
+    HZ-CACHE-17:
+    HZ-CACHE-24:
+        grep: /tmp/nginx/9/00/4047d60912b59a8c4396ab0b027e0009: No such file or directory
+    HZ-CACHE-20:
+    HZ-CACHE-12:
+    HZ-CACHE-26:
+    HZ-CACHE-23:
+    HZ-CACHE-25:
+    HZ-CACHE-14:
+    HZ-CACHE-18:
+    HZ-CACHE-19:
+    HZ-CACHE-22:
+    HZ-CACHE-21:
+dongguan:
+    DG-CACHE-150:
+    DG-CACHE-146:
+    DG-CACHE-144:
+    DG-CACHE-138:
+    DG-CACHE-142:
+    DG-CACHE-140:
+    DG-CACHE-152:
+    DG-CACHE-141:
+    DG-CACHE-151:
+    DG-CACHE-143:
+    DG-CACHE-145:
+    DG-CACHE-149:
+    DG-CACHE-139:
+    DG-CACHE-147:
+wuxi:
+    WX-CACHE-43:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-44:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+BJ-SQUID-36:
+    grep: /tmp/nginx/6/c2/54a6c302e7cff82f0573fadf4ad1cc26: No such file or directory
+BJ-SQUID-35:
+BJ-SQUID-31:
+BJ-SQUID-30:
+BJ-SQUID-33:
+BJ-SQUID-32:
+BJ-CACHE-202:
+    grep: /usr/local/nginx/cache/0/df/bee84d35df4ba7a6dd5a1fa272f0cdf0: No such file or directory
+    grep: /usr/local/nginx/cache/7/a3/b1d9d0248616ccc8cc2f674e42914a37: No such file or directory
+BJ-CACHE-200:
+BJ-CACHE-201:
+    grep: /usr/local/nginx/cache/9/23/6a09f60cd90d8290def8820dc6e04239: No such file or directory
+BJ-CACHE-203:
+BJ-CACHE-204:
+[16/Jan/2014 11:05:19] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+shanxiyidong:
+    SXYD-CACHE-33:
+    SXYD-CACHE-35:
+    SXYD-CACHE-41:
+    SXYD-CACHE-15:
+    SXYD-CACHE-39:
+    SXYD-CACHE-40:
+    SXYD-CACHE-37:
+    SXYD-CACHE-14:
+    SXYD-CACHE-36:
+    SXYD-CACHE-42:
+    SXYD-CACHE-34:
+    SXYD-CACHE-32:
+    SXYD-CACHE-38:
+guangzhou:
+    GZ-CACHE-22:
+    GZ-CACHE-24:
+    GZ-CACHE-18:
+    GZ-CACHE-17:
+    GZ-CACHE-16:
+    GZ-CACHE-14:
+    GZ-CACHE-12:
+    GZ-CACHE-20:
+    GZ-CACHE-26:
+    GZ-CACHE-13:
+    GZ-CACHE-23:
+    GZ-CACHE-25:
+    GZ-CACHE-21:
+    GZ-CACHE-19:
+    GZ-CACHE-15:
+wuxi:
+    WX-CACHE-43:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-44:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-23:
+    WX-CACHE-25:
+    WX-CACHE-32:
+    WX-CACHE-34:
+    WX-CACHE-28:
+    WX-CACHE-20:
+    WX-CACHE-24:
+    WX-CACHE-22:
+    WX-CACHE-26:
+    WX-CACHE-30:
+    WX-CACHE-27:
+        grep: /tmp/nginx/c/c6/28f7efc08c75943b85718432da578c6c: No such file or directory
+    WX-CACHE-31:
+    WX-CACHE-35:
+    WX-CACHE-33:
+    WX-CACHE-29:
+    WX-CACHE-21:
+shenyang:
+    SY-CACHE-25:
+    SY-CACHE-29:
+    SY-CACHE-27:
+    SY-CACHE-24:
+    SY-CACHE-19:
+    SY-CACHE-14:
+    SY-CACHE-22:
+    SY-CACHE-15:
+    SY-CACHE-18:
+    SY-CACHE-17:
+    SY-CACHE-28:
+    SY-CACHE-12:
+    SY-CACHE-23:
+    SY-CACHE-26:
+    SY-CACHE-16:
+fuzhou:
+    FZ-CACHE-8:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-7:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-5:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-39:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-40:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-25:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-24:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-27:
+    FZ-CACHE-26:
+    FZ-CACHE-18:
+    FZ-CACHE-17:
+    FZ-CACHE-12:
+    FZ-CACHE-13:
+    FZ-CACHE-14:
+    FZ-CACHE-16:
+    FZ-CACHE-36:
+    FZ-CACHE-15:
+    FZ-CACHE-19:
+    FZ-CACHE-37:
+shijiazhuang:
+    SJZ-CACHE-47:
+    SJZ-CACHE-46:
+    SJZ-CACHE-44:
+    SJZ-CACHE-38:
+    SJZ-CACHE-49:
+    SJZ-CACHE-34:
+    SJZ-CACHE-43:
+    SJZ-CACHE-50:
+    SJZ-CACHE-45:
+    SJZ-CACHE-41:
+    SJZ-CACHE-37:
+    SJZ-CACHE-40:
+    SJZ-CACHE-48:
+    SJZ-CACHE-33:
+    SJZ-CACHE-32:
+    SJZ-CACHE-39:
+    SJZ-CACHE-36:
+    SJZ-CACHE-35:
+    SJZ-CACHE-31:
+taiyuan:
+    TY-CACHE-26:
+    TY-CACHE-14:
+    TY-CACHE-16:
+    TY-CACHE-23:
+    TY-CACHE-15:
+    TY-CACHE-19:
+    TY-CACHE-13:
+    TY-CACHE-25:
+    TY-CACHE-17:
+    TY-CACHE-22:
+    TY-CACHE-20:
+    TY-CACHE-18:
+    TY-CACHE-21:
+    TY-CACHE-24:
+    TY-CACHE-27:
+zhengzhou:
+    ZZ-CACHE-35:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-31:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-36:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-23:
+    ZZ-CACHE-55:
+    ZZ-CACHE-52:
+    ZZ-CACHE-20:
+    ZZ-CACHE-14:
+    ZZ-CACHE-19:
+    ZZ-CACHE-17:
+    ZZ-CACHE-54:
+    ZZ-CACHE-24:
+    ZZ-CACHE-21:
+    ZZ-CACHE-16:
+    ZZ-CACHE-57:
+    ZZ-CACHE-58:
+    ZZ-CACHE-53:
+        grep: /tmp/nginx/2/60/01ebfc9b090b21298fd11febc10e2602: No such file or directory
+    ZZ-CACHE-56:
+    ZZ-CACHE-18:
+    ZZ-CACHE-26:
+    ZZ-CACHE-59:
+    ZZ-CACHE-60:
+    ZZ-CACHE-25:
+    ZZ-CACHE-61:
+xian:
+    XA-CACHE-15:
+    XA-CACHE-13:
+    XA-CACHE-27:
+    XA-CACHE-16:
+    XA-CACHE-24:
+    XA-CACHE-12:
+    XA-CACHE-14:
+    XA-CACHE-26:
+    XA-CACHE-20:
+    XA-CACHE-18:
+    XA-CACHE-25:
+    XA-CACHE-22:
+    XA-CACHE-17:
+    XA-CACHE-23:
+    XA-CACHE-19:
+    XA-CACHE-21:
+zhejiangyidong:
+    ZJYD-CACHE-205:
+    ZJYD-CACHE-207:
+    ZJYD-CACHE-217:
+    ZJYD-CACHE-211:
+    ZJYD-CACHE-213:
+    ZJYD-CACHE-220:
+    ZJYD-CACHE-216:
+    ZJYD-CACHE-218:
+    ZJYD-CACHE-222:
+    ZJYD-CACHE-215:
+    ZJYD-CACHE-212:
+    ZJYD-CACHE-209:
+    ZJYD-CACHE-208:
+    ZJYD-CACHE-214:
+    ZJYD-CACHE-204:
+    ZJYD-CACHE-210:
+    ZJYD-CACHE-206:
+nanning:
+    NNN-CACHE-219:
+    NNN-CACHE-217:
+    NNN-CACHE-215:
+    NNN-CACHE-208:
+    NNN-CACHE-206:
+    NNN-CACHE-164:
+    NNN-CACHE-213:
+    NNN-CACHE-212:
+    NNN-CACHE-205:
+    NNN-CACHE-216:
+    NNN-CACHE-211:
+    NNN-CACHE-220:
+    NNN-CACHE-163:
+    NNN-CACHE-214:
+    NNN-CACHE-209:
+    NNN-CACHE-218:
+    NNN-CACHE-210:
+    NNN-CACHE-207:
+hangzhou:
+    HZ-CACHE-13:
+    HZ-CACHE-16:
+    HZ-CACHE-15:
+    HZ-CACHE-23:
+    HZ-CACHE-20:
+    HZ-CACHE-19:
+    HZ-CACHE-26:
+    HZ-CACHE-12:
+    HZ-CACHE-17:
+        grep: /tmp/nginx/d/8c/9e185157d23426dca241ffecf83a08cd: No such file or directory
+    HZ-CACHE-24:
+    HZ-CACHE-25:
+    HZ-CACHE-14:
+    HZ-CACHE-21:
+    HZ-CACHE-18:
+    HZ-CACHE-22:
+huhehaote:
+    HHHT-CACHE-47:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-48:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-8:
+    HHHT-CACHE-9:
+    HHHT-CACHE-41:
+    HHHT-CACHE-22:
+    HHHT-CACHE-29:
+    HHHT-CACHE-33:
+    HHHT-CACHE-37:
+    HHHT-CACHE-45:
+    HHHT-CACHE-31:
+    HHHT-CACHE-30:
+    HHHT-CACHE-39:
+    HHHT-CACHE-32:
+    HHHT-CACHE-24:
+    HHHT-CACHE-21:
+    HHHT-CACHE-35:
+    HHHT-CACHE-43:
+    HHHT-CACHE-20:
+    HHHT-CACHE-44:
+    HHHT-CACHE-40:
+    HHHT-CACHE-42:
+    HHHT-CACHE-46:
+    HHHT-CACHE-38:
+    HHHT-CACHE-19:
+    HHHT-CACHE-36:
+tianjin:
+    TJ-CACHE-91:
+    TJ-CACHE-89:
+    TJ-CACHE-82:
+    TJ-CACHE-80:
+    TJ-CACHE-83:
+    TJ-CACHE-81:
+    TJ-CACHE-84:
+    TJ-CACHE-79:
+    TJ-CACHE-93:
+    TJ-CACHE-85:
+    TJ-CACHE-87:
+    TJ-CACHE-86:
+    TJ-CACHE-88:
+    TJ-CACHE-92:
+    TJ-CACHE-90:
+dongguan:
+    DG-CACHE-150:
+    DG-CACHE-146:
+    DG-CACHE-144:
+    DG-CACHE-141:
+    DG-CACHE-138:
+    DG-CACHE-152:
+    DG-CACHE-142:
+    DG-CACHE-140:
+    DG-CACHE-143:
+    DG-CACHE-151:
+    DG-CACHE-149:
+    DG-CACHE-145:
+    DG-CACHE-139:
+    DG-CACHE-147:
+BJ-SQUID-32:
+BJ-SQUID-35:
+BJ-SQUID-36:
+BJ-SQUID-33:
+BJ-SQUID-31:
+    grep: /tmp/nginx/9/f0/3d3bf7e678b1d3ad1b9b592426e76f09: No such file or directory
+BJ-SQUID-30:
+    grep: /tmp/nginx/0/46/6d44ed2f2d6a19d4ea5b94dabd25a460: No such file or directory
+    grep: /tmp/nginx/a/c3/84d9b2b902374863d46d9d50111d8c3a: No such file or directory
+BJ-CACHE-200:
+    grep: /usr/local/nginx/cache/5/73/de4a6b4181b983235aa10869b28d8735: No such file or directory
+BJ-CACHE-202:
+BJ-CACHE-201:
+BJ-CACHE-203:
+BJ-CACHE-204:
+[21/Jan/2014 18:42:15] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+shanxiyidong:
+    SXYD-CACHE-33:
+    SXYD-CACHE-35:
+    SXYD-CACHE-39:
+    SXYD-CACHE-15:
+    SXYD-CACHE-40:
+    SXYD-CACHE-41:
+    SXYD-CACHE-14:
+    SXYD-CACHE-37:
+    SXYD-CACHE-42:
+        grep: /tmp/nginx/b/1d/b5bc40bf11e0790d6cddef90fdf881db: No such file or directory
+    SXYD-CACHE-36:
+    SXYD-CACHE-34:
+    SXYD-CACHE-32:
+    SXYD-CACHE-38:
+wuxi:
+    WX-CACHE-44:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-43:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-23:
+    WX-CACHE-25:
+    WX-CACHE-30:
+    WX-CACHE-26:
+    WX-CACHE-27:
+    WX-CACHE-24:
+    WX-CACHE-31:
+    WX-CACHE-28:
+    WX-CACHE-22:
+    WX-CACHE-35:
+    WX-CACHE-34:
+    WX-CACHE-33:
+    WX-CACHE-20:
+    WX-CACHE-32:
+    WX-CACHE-29:
+    WX-CACHE-21:
+guangzhou:
+    GZ-CACHE-24:
+    GZ-CACHE-22:
+    GZ-CACHE-17:
+    GZ-CACHE-14:
+    GZ-CACHE-26:
+    GZ-CACHE-12:
+    GZ-CACHE-20:
+    GZ-CACHE-16:
+    GZ-CACHE-18:
+    GZ-CACHE-21:
+    GZ-CACHE-23:
+    GZ-CACHE-25:
+    GZ-CACHE-19:
+    GZ-CACHE-13:
+    GZ-CACHE-15:
+xian:
+    XA-CACHE-13:
+    XA-CACHE-15:
+    XA-CACHE-27:
+    XA-CACHE-14:
+    XA-CACHE-12:
+    XA-CACHE-17:
+    XA-CACHE-22:
+    XA-CACHE-18:
+    XA-CACHE-26:
+    XA-CACHE-16:
+    XA-CACHE-20:
+    XA-CACHE-24:
+    XA-CACHE-25:
+    XA-CACHE-19:
+    XA-CACHE-21:
+    XA-CACHE-23:
+fuzhou:
+    FZ-CACHE-5:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-7:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-8:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-40:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-39:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-25:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-24:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-26:
+    FZ-CACHE-27:
+    FZ-CACHE-17:
+    FZ-CACHE-12:
+    FZ-CACHE-36:
+    FZ-CACHE-18:
+    FZ-CACHE-16:
+    FZ-CACHE-14:
+    FZ-CACHE-15:
+    FZ-CACHE-19:
+    FZ-CACHE-13:
+    FZ-CACHE-37:
+zhengzhou:
+    ZZ-CACHE-31:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-35:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-36:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-52:
+    ZZ-CACHE-23:
+    ZZ-CACHE-56:
+    ZZ-CACHE-54:
+    ZZ-CACHE-55:
+    ZZ-CACHE-21:
+    ZZ-CACHE-17:
+    ZZ-CACHE-24:
+    ZZ-CACHE-14:
+    ZZ-CACHE-58:
+    ZZ-CACHE-19:
+    ZZ-CACHE-18:
+    ZZ-CACHE-57:
+    ZZ-CACHE-53:
+    ZZ-CACHE-25:
+    ZZ-CACHE-26:
+    ZZ-CACHE-16:
+    ZZ-CACHE-60:
+    ZZ-CACHE-59:
+    ZZ-CACHE-20:
+    ZZ-CACHE-61:
+shijiazhuang:
+    SJZ-CACHE-38:
+    SJZ-CACHE-44:
+    SJZ-CACHE-47:
+    SJZ-CACHE-49:
+    SJZ-CACHE-46:
+    SJZ-CACHE-34:
+    SJZ-CACHE-50:
+    SJZ-CACHE-37:
+    SJZ-CACHE-45:
+    SJZ-CACHE-33:
+    SJZ-CACHE-36:
+    SJZ-CACHE-41:
+    SJZ-CACHE-48:
+    SJZ-CACHE-32:
+    SJZ-CACHE-40:
+    SJZ-CACHE-35:
+    SJZ-CACHE-31:
+    SJZ-CACHE-39:
+    SJZ-CACHE-43:
+taiyuan:
+    TY-CACHE-26:
+    TY-CACHE-14:
+    TY-CACHE-16:
+    TY-CACHE-23:
+    TY-CACHE-13:
+    TY-CACHE-19:
+    TY-CACHE-25:
+    TY-CACHE-27:
+    TY-CACHE-17:
+    TY-CACHE-22:
+    TY-CACHE-20:
+    TY-CACHE-18:
+    TY-CACHE-15:
+    TY-CACHE-21:
+    TY-CACHE-24:
+shenyang:
+    SY-CACHE-25:
+    SY-CACHE-29:
+    SY-CACHE-27:
+    SY-CACHE-24:
+    SY-CACHE-15:
+    SY-CACHE-22:
+    SY-CACHE-19:
+    SY-CACHE-17:
+    SY-CACHE-23:
+    SY-CACHE-26:
+    SY-CACHE-28:
+    SY-CACHE-12:
+    SY-CACHE-18:
+    SY-CACHE-14:
+    SY-CACHE-16:
+nanning:
+    NNN-CACHE-219:
+    NNN-CACHE-215:
+    NNN-CACHE-217:
+    NNN-CACHE-208:
+    NNN-CACHE-206:
+    NNN-CACHE-213:
+    NNN-CACHE-164:
+    NNN-CACHE-212:
+    NNN-CACHE-205:
+    NNN-CACHE-211:
+    NNN-CACHE-209:
+    NNN-CACHE-207:
+    NNN-CACHE-220:
+    NNN-CACHE-214:
+    NNN-CACHE-163:
+    NNN-CACHE-218:
+    NNN-CACHE-210:
+    NNN-CACHE-216:
+        grep: /tmp/nginx/e/3f/c095f68b20b270bb8a4098f2b55573fe: No such file or directory
+zhejiangyidong:
+    ZJYD-CACHE-207:
+    ZJYD-CACHE-205:
+    ZJYD-CACHE-217:
+    ZJYD-CACHE-211:
+    ZJYD-CACHE-213:
+    ZJYD-CACHE-220:
+    ZJYD-CACHE-222:
+    ZJYD-CACHE-215:
+    ZJYD-CACHE-212:
+    ZJYD-CACHE-216:
+    ZJYD-CACHE-214:
+    ZJYD-CACHE-209:
+    ZJYD-CACHE-218:
+    ZJYD-CACHE-208:
+    ZJYD-CACHE-204:
+    ZJYD-CACHE-210:
+    ZJYD-CACHE-206:
+tianjin:
+    TJ-CACHE-89:
+    TJ-CACHE-91:
+    TJ-CACHE-82:
+    TJ-CACHE-83:
+    TJ-CACHE-80:
+    TJ-CACHE-93:
+    TJ-CACHE-85:
+    TJ-CACHE-84:
+    TJ-CACHE-79:
+    TJ-CACHE-87:
+    TJ-CACHE-86:
+    TJ-CACHE-88:
+    TJ-CACHE-92:
+    TJ-CACHE-81:
+        grep: /tmp/nginx/a/63/8305107fd452e4500f3310f7f989c63a: No such file or directory
+    TJ-CACHE-90:
+huhehaote:
+    HHHT-CACHE-48:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-47:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-8:
+    HHHT-CACHE-9:
+    HHHT-CACHE-22:
+    HHHT-CACHE-29:
+    HHHT-CACHE-41:
+    HHHT-CACHE-35:
+    HHHT-CACHE-37:
+    HHHT-CACHE-32:
+    HHHT-CACHE-45:
+    HHHT-CACHE-30:
+    HHHT-CACHE-21:
+    HHHT-CACHE-31:
+    HHHT-CACHE-43:
+    HHHT-CACHE-24:
+    HHHT-CACHE-44:
+    HHHT-CACHE-33:
+    HHHT-CACHE-20:
+        grep: /tmp/nginx/e/70/1a5833d99494caad5ffd7ad7fb31370e: No such file or directory
+    HHHT-CACHE-39:
+    HHHT-CACHE-46:
+    HHHT-CACHE-38:
+    HHHT-CACHE-40:
+    HHHT-CACHE-42:
+    HHHT-CACHE-19:
+    HHHT-CACHE-36:
+dongguan:
+    DG-CACHE-150:
+    DG-CACHE-146:
+    DG-CACHE-144:
+    DG-CACHE-142:
+    DG-CACHE-140:
+    DG-CACHE-138:
+    DG-CACHE-141:
+    DG-CACHE-143:
+    DG-CACHE-151:
+    DG-CACHE-145:
+    DG-CACHE-149:
+    DG-CACHE-152:
+    DG-CACHE-139:
+    DG-CACHE-147:
+hangzhou:
+    HZ-CACHE-15:
+    HZ-CACHE-13:
+    HZ-CACHE-16:
+    HZ-CACHE-23:
+    HZ-CACHE-12:
+    HZ-CACHE-19:
+    HZ-CACHE-17:
+    HZ-CACHE-24:
+    HZ-CACHE-20:
+    HZ-CACHE-26:
+    HZ-CACHE-21:
+    HZ-CACHE-14:
+    HZ-CACHE-25:
+    HZ-CACHE-22:
+    HZ-CACHE-18:
+BJ-SQUID-32:
+    grep: /tmp/nginx/5/a8/201145db0eeb8ce248b6d0e73216fa85: No such file or directory
+BJ-SQUID-33:
+BJ-SQUID-35:
+BJ-SQUID-36:
+BJ-SQUID-30:
+    grep: /tmp/nginx/2/9c/a017cdb227b57f4cdb25468d045519c2: No such file or directory
+    grep: /tmp/nginx/2/cb/a6acf57a6c636c1c0550200fc0154cb2: No such file or directory
+BJ-SQUID-31:
+    grep: /tmp/nginx/6/fe/12d22ef4b8b1ef4818a620d985f77fe6: No such file or directory
+    grep: /tmp/nginx/8/99/8544932c842630bcf5bd099924c3e998: No such file or directory
+    grep: /tmp/nginx/8/86/eee3c7782fb47d77f42459bb16100868: No such file or directory
+BJ-CACHE-200:
+BJ-CACHE-202:
+BJ-CACHE-201:
+BJ-CACHE-203:
+    grep: /usr/local/nginx/cache/a/39/3f236cf2cc26394130a3964de005f39a: No such file or directory
+BJ-CACHE-204:
+    grep: /usr/local/nginx/cache/f/9e/73efcce88d9231667775b397d8b649ef: No such file or directory
+[21/Jan/2014 18:47:40] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+shanxiyidong:
+    SXYD-CACHE-35:
+    SXYD-CACHE-33:
+    SXYD-CACHE-15:
+    SXYD-CACHE-39:
+    SXYD-CACHE-40:
+    SXYD-CACHE-14:
+    SXYD-CACHE-37:
+    SXYD-CACHE-41:
+    SXYD-CACHE-42:
+    SXYD-CACHE-36:
+    SXYD-CACHE-34:
+    SXYD-CACHE-32:
+    SXYD-CACHE-38:
+xian:
+    XA-CACHE-13:
+    XA-CACHE-15:
+    XA-CACHE-27:
+    XA-CACHE-14:
+    XA-CACHE-12:
+    XA-CACHE-26:
+    XA-CACHE-20:
+    XA-CACHE-18:
+    XA-CACHE-16:
+    XA-CACHE-17:
+    XA-CACHE-25:
+    XA-CACHE-24:
+    XA-CACHE-22:
+    XA-CACHE-19:
+    XA-CACHE-23:
+    XA-CACHE-21:
+wuxi:
+    WX-CACHE-44:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-43:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-23:
+    WX-CACHE-25:
+    WX-CACHE-30:
+    WX-CACHE-27:
+    WX-CACHE-26:
+    WX-CACHE-24:
+    WX-CACHE-31:
+    WX-CACHE-32:
+    WX-CACHE-22:
+    WX-CACHE-28:
+    WX-CACHE-33:
+    WX-CACHE-35:
+    WX-CACHE-20:
+    WX-CACHE-34:
+    WX-CACHE-29:
+    WX-CACHE-21:
+guangzhou:
+    GZ-CACHE-22:
+    GZ-CACHE-24:
+    GZ-CACHE-14:
+    GZ-CACHE-17:
+    GZ-CACHE-26:
+    GZ-CACHE-20:
+    GZ-CACHE-18:
+    GZ-CACHE-12:
+    GZ-CACHE-13:
+    GZ-CACHE-25:
+    GZ-CACHE-23:
+    GZ-CACHE-21:
+    GZ-CACHE-16:
+    GZ-CACHE-15:
+    GZ-CACHE-19:
+fuzhou:
+    FZ-CACHE-7:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-5:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-8:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-39:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-40:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-25:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-24:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-26:
+    FZ-CACHE-27:
+    FZ-CACHE-17:
+    FZ-CACHE-36:
+    FZ-CACHE-12:
+    FZ-CACHE-18:
+    FZ-CACHE-14:
+    FZ-CACHE-15:
+    FZ-CACHE-16:
+    FZ-CACHE-19:
+    FZ-CACHE-13:
+    FZ-CACHE-37:
+zhengzhou:
+    ZZ-CACHE-35:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-31:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-36:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-23:
+    ZZ-CACHE-52:
+    ZZ-CACHE-54:
+    ZZ-CACHE-55:
+    ZZ-CACHE-21:
+    ZZ-CACHE-58:
+    ZZ-CACHE-24:
+    ZZ-CACHE-14:
+    ZZ-CACHE-56:
+    ZZ-CACHE-17:
+    ZZ-CACHE-19:
+    ZZ-CACHE-18:
+    ZZ-CACHE-57:
+    ZZ-CACHE-53:
+    ZZ-CACHE-59:
+    ZZ-CACHE-26:
+    ZZ-CACHE-60:
+        grep: /tmp/nginx/e/07/9c8e7a5460d69f5ee07825eb6d0e307e: No such file or directory
+    ZZ-CACHE-16:
+    ZZ-CACHE-25:
+    ZZ-CACHE-20:
+    ZZ-CACHE-61:
+shenyang:
+    SY-CACHE-25:
+    SY-CACHE-29:
+    SY-CACHE-27:
+    SY-CACHE-24:
+    SY-CACHE-22:
+    SY-CACHE-15:
+    SY-CACHE-19:
+    SY-CACHE-17:
+    SY-CACHE-26:
+    SY-CACHE-23:
+    SY-CACHE-28:
+    SY-CACHE-14:
+    SY-CACHE-12:
+    SY-CACHE-16:
+    SY-CACHE-18:
+taiyuan:
+    TY-CACHE-14:
+    TY-CACHE-26:
+    TY-CACHE-16:
+    TY-CACHE-23:
+    TY-CACHE-25:
+    TY-CACHE-13:
+    TY-CACHE-19:
+    TY-CACHE-27:
+    TY-CACHE-17:
+    TY-CACHE-22:
+    TY-CACHE-20:
+    TY-CACHE-18:
+    TY-CACHE-15:
+    TY-CACHE-21:
+    TY-CACHE-24:
+shijiazhuang:
+    SJZ-CACHE-49:
+    SJZ-CACHE-44:
+    SJZ-CACHE-47:
+    SJZ-CACHE-38:
+    SJZ-CACHE-46:
+    SJZ-CACHE-34:
+    SJZ-CACHE-48:
+    SJZ-CACHE-50:
+    SJZ-CACHE-41:
+    SJZ-CACHE-40:
+    SJZ-CACHE-33:
+    SJZ-CACHE-37:
+    SJZ-CACHE-43:
+    SJZ-CACHE-32:
+   BJ-SQUID-32:
+    grep: /tmp/nginx/9/d6/4e334a045bf0adf24f012e72394e2d69: No such file or directory
+BJ-SQUID-35:
+BJ-SQUID-36:
+    grep: /tmp/nginx/3/0d/cf0ed1914ae8c0e4d3911f442bf740d3: No such file or directory
+    grep: /tmp/nginx/3/17/d3fe36bdf0306291babe02fcd8845173: No such file or directory
+BJ-SQUID-31:
+    grep: /tmp/nginx/a/8a/ba068f293ff6738de7c09e0d968508aa: No such file or directory
+BJ-SQUID-30:
+    grep: /tmp/nginx/b/36/02222106a2b70f8ed1fca8bd19b8136b: No such file or directory
+    grep: /tmp/nginx/b/92/b9451a0da737432a1da59b8930d0892b: No such file or directory
+    grep: /tmp/nginx/9/bf/7b29f1edb382fc431e118ff0fc689bf9: No such file or directory
+    grep: /tmp/nginx/9/f8/a3bd0abf3eb6179ef64fa1e16c8c6f89: No such file or directory
+BJ-SQUID-33:
+    grep: /tmp/nginx/2/f6/08d5986a2e55d354e6f7930972693f62: No such file or directory
+BJ-CACHE-200:
+    grep: /usr/local/nginx/cache/d/c4/3c535aa9b2a1fc02c26c39b7b905bc4d: No such file or directory
+BJ-CACHE-202:
+BJ-CACHE-201:
+BJ-CACHE-203:
+BJ-CACHE-204:
+    grep: /usr/local/nginx/cache/4/9b/346c1859f99b76cb3362aeffdb0af9b4: No such file or directory
+[21/Jan/2014 18:48:27] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+shanxiyidong:
+    SXYD-CACHE-33:
+    SXYD-CACHE-35:
+    SXYD-CACHE-15:
+    SXYD-CACHE-39:
+    SXYD-CACHE-40:
+    SXYD-CACHE-14:
+    SXYD-CACHE-41:
+    SXYD-CACHE-37:
+    SXYD-CACHE-36:
+    SXYD-CACHE-42:
+    SXYD-CACHE-34:
+    SXYD-CACHE-32:
+    SXYD-CACHE-38:
+        grep: /tmp/nginx/c/51/35849c16ad099da663e9c3d77c33451c: No such file or directory
+xian:
+    XA-CACHE-15:
+    XA-CACHE-13:
+    XA-CACHE-27:
+    XA-CACHE-14:
+    XA-CACHE-12:
+    XA-CACHE-26:
+    XA-CACHE-20:
+    XA-CACHE-25:
+    XA-CACHE-16:
+    XA-CACHE-17:
+    XA-CACHE-22:
+    XA-CACHE-24:
+    XA-CACHE-18:
+    XA-CACHE-19:
+    XA-CACHE-23:
+    XA-CACHE-21:
+wuxi:
+    WX-CACHE-43:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-44:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-23:
+    WX-CACHE-25:
+    WX-CACHE-30:
+    WX-CACHE-26:
+    WX-CACHE-27:
+    WX-CACHE-28:
+    WX-CACHE-32:
+    WX-CACHE-31:
+        grep: /tmp/nginx/4/95/ca1ef43ca3e1e3090e51f01b90283954: No such file or directory
+    WX-CACHE-24:
+    WX-CACHE-22:
+    WX-CACHE-35:
+    WX-CACHE-34:
+    WX-CACHE-33:
+    WX-CACHE-20:
+    WX-CACHE-29:
+    WX-CACHE-21:
+zhengzhou:
+    ZZ-CACHE-31:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-35:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-36:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-23:
+    ZZ-CACHE-52:
+    ZZ-CACHE-20:
+    ZZ-CACHE-54:
+    ZZ-CACHE-55:
+    ZZ-CACHE-17:
+    ZZ-CACHE-21:
+    ZZ-CACHE-24:
+    ZZ-CACHE-56:
+    ZZ-CACHE-19:
+    ZZ-CACHE-14:
+    ZZ-CACHE-58:
+    ZZ-CACHE-18:
+    ZZ-CACHE-57:
+    ZZ-CACHE-53:
+    ZZ-CACHE-59:
+    ZZ-CACHE-60:
+        grep: /tmp/nginx/f/80/68a233959d9fa55aa3d79d262389480f: No such file or directory
+    ZZ-CACHE-26:
+        grep: /tmp/nginx/6/93/2493b43bc5f7bc8a6cbcc525a3882936: No such file or directory
+    ZZ-CACHE-16:
+    ZZ-CACHE-25:
+    ZZ-CACHE-61:
+guangzhou:
+    GZ-CACHE-24:
+    GZ-CACHE-22:
+    GZ-CACHE-14:
+    GZ-CACHE-17:
+    GZ-CACHE-12:
+    GZ-CACHE-26:
+    GZ-CACHE-16:
+    GZ-CACHE-13:
+    GZ-CACHE-18:
+    GZ-CACHE-20:
+    GZ-CACHE-25:
+    GZ-CACHE-23:
+    GZ-CACHE-19:
+        grep: /tmp/nginx/d/e3/b8a176e7b147172c32c3d3416e8cfe3d: No such file or directory
+    GZ-CACHE-21:
+    GZ-CACHE-15:
+        grep: /tmp/nginx/d/cb/65c15ea82e174b3c1d304b27ebd15cbd: No such file or directory
+taiyuan:
+    TY-CACHE-14:
+    TY-CACHE-16:
+    TY-CACHE-26:
+    TY-CACHE-23:
+    TY-CACHE-25:
+    TY-CACHE-13:
+    TY-CACHE-27:
+    TY-CACHE-19:
+    TY-CACHE-17:
+    TY-CACHE-22:
+    TY-CACHE-20:
+    TY-CACHE-18:
+    TY-CACHE-15:
+    TY-CACHE-24:
+    TY-CACHE-21:
+shenyang:
+    SY-CACHE-29:
+    SY-CACHE-25:
+    SY-CACHE-27:
+    SY-CACHE-24:
+    SY-CACHE-22:
+    SY-CACHE-15:
+    SY-CACHE-19:
+    SY-CACHE-17:
+    SY-CACHE-26:
+    SY-CACHE-23:
+    SY-CACHE-28:
+    SY-CACHE-12:
+    SY-CACHE-18:
+    SY-CACHE-16:
+    SY-CACHE-14:
+fuzhou:
+    FZ-CACHE-5:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-7:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-8:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-40:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-39:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-25:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-24:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-26:
+    FZ SJZ-CACHE-36:
+    SJZ-CACHE-45:
+    SJZ-CACHE-39:
+    SJZ-CACHE-31:
+    SJZ-CACHE-35:
+nanning:
+    NNN-CACHE-217:
+    NNN-CACHE-219:
+    NNN-CACHE-215:
+    NNN-CACHE-208:
+    NNN-CACHE-206:
+    NNN-CACHE-164:
+    NNN-CACHE-213:
+    NNN-CACHE-212:
+    NNN-CACHE-205:
+    NNN-CACHE-211:
+    NNN-CACHE-209:
+    NNN-CACHE-220:
+    NNN-CACHE-207:
+    NNN-CACHE-214:
+    NNN-CACHE-218:
+    NNN-CACHE-163:
+    NNN-CACHE-210:
+    NNN-CACHE-216:
+hangzhou:
+    HZ-CACHE-15:
+    HZ-CACHE-13:
+    HZ-CACHE-16:
+    HZ-CACHE-23:
+    HZ-CACHE-19:
+    HZ-CACHE-12:
+    HZ-CACHE-17:
+    HZ-CACHE-24:
+    HZ-CACHE-26:
+    HZ-CACHE-20:
+    HZ-CACHE-14:
+    HZ-CACHE-21:
+    HZ-CACHE-25:
+    HZ-CACHE-22:
+    HZ-CACHE-18:
+zhejiangyidong:
+    ZJYD-CACHE-205:
+    ZJYD-CACHE-207:
+    ZJYD-CACHE-217:
+    ZJYD-CACHE-211:
+    ZJYD-CACHE-213:
+    ZJYD-CACHE-220:
+    ZJYD-CACHE-222:
+    ZJYD-CACHE-215:
+    ZJYD-CACHE-216:
+    ZJYD-CACHE-212:
+    ZJYD-CACHE-209:
+    ZJYD-CACHE-218:
+    ZJYD-CACHE-208:
+    ZJYD-CACHE-214:
+    ZJYD-CACHE-204:
+    ZJYD-CACHE-210:
+    ZJYD-CACHE-206:
+huhehaote:
+    HHHT-CACHE-48:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-47:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-8:
+    HHHT-CACHE-9:
+    HHHT-CACHE-22:
+    HHHT-CACHE-32:
+    HHHT-CACHE-35:
+    HHHT-CACHE-21:
+    HHHT-CACHE-41:
+    HHHT-CACHE-37:
+    HHHT-CACHE-31:
+    HHHT-CACHE-29:
+    HHHT-CACHE-30:
+    HHHT-CACHE-45:
+    HHHT-CACHE-43:
+    HHHT-CACHE-24:
+    HHHT-CACHE-44:
+    HHHT-CACHE-33:
+    HHHT-CACHE-20:
+    HHHT-CACHE-39:
+    HHHT-CACHE-46:
+        grep: /tmp/nginx/1/ea/ccae05a0438992f6cd6ae1a8d5708ea1: No such file or directory
+    HHHT-CACHE-38:
+    HHHT-CACHE-40:
+    HHHT-CACHE-42:
+    HHHT-CACHE-19:
+    HHHT-CACHE-36:
+        grep: /tmp/nginx/b/05/ac1efdfa0df1b75197a2dffeb53ed05b: No such file or directory
+tianjin:
+    TJ-CACHE-91:
+    TJ-CACHE-89:
+    TJ-CACHE-82:
+    TJ-CACHE-80:
+    TJ-CACHE-83:
+    TJ-CACHE-79:
+    TJ-CACHE-84:
+    TJ-CACHE-85:
+    TJ-CACHE-93:
+    TJ-CACHE-86:
+    TJ-CACHE-87:
+    TJ-CACHE-88:
+    TJ-CACHE-92:
+    TJ-CACHE-81:
+    TJ-CACHE-90:
+dongguan:
+    DG-CACHE-150:
+    DG-CACHE-146:
+    DG-CACHE-144:
+    DG-CACHE-142:
+    DG-CACHE-138:
+    DG-CACHE-141:
+    DG-CACHE-140:
+    DG-CACHE-143:
+    DG-CACHE-151:
+    DG-CACHE-145:
+    DG-CACHE-152:
+    DG-CACHE-149:
+    DG-CACHE-147:
+        grep: /tmp/nginx/2/e8/defba7090ff5bb7fb160ddf0da835e82: No such file or directory
+    DG-CACHE-139:
+        grep: /tmp/nginx/b/0a/f1704656f9dc1f9c8fcd171485a710ab: No such file or directory
+-CACHE-27:
+    FZ-CACHE-17:
+    FZ-CACHE-36:
+    FZ-CACHE-12:
+    FZ-CACHE-18:
+    FZ-CACHE-14:
+    FZ-CACHE-16:
+    FZ-CACHE-15:
+    FZ-CACHE-19:
+    FZ-CACHE-13:
+    FZ-CACHE-37:
+nanning:
+    NNN-CACHE-219:
+    NNN-CACHE-217:
+    NNN-CACHE-208:
+    NNN-CACHE-215:
+    NNN-CACHE-206:
+    NNN-CACHE-164:
+    NNN-CACHE-213:
+    NNN-CACHE-211:
+    NNN-CACHE-212:
+    NNN-CACHE-205:
+    NNN-CACHE-209:
+    NNN-CACHE-220:
+    NNN-CACHE-207:
+    NNN-CACHE-214:
+    NNN-CACHE-163:
+    NNN-CACHE-218:
+    NNN-CACHE-210:
+    NNN-CACHE-216:
+shijiazhuang:
+    SJZ-CACHE-47:
+    SJZ-CACHE-49:
+    SJZ-CACHE-44:
+    SJZ-CACHE-46:
+    SJZ-CACHE-38:
+    SJZ-CACHE-34:
+    SJZ-CACHE-48:
+    SJZ-CACHE-50:
+    SJZ-CACHE-45:
+    SJZ-CACHE-37:
+    SJZ-CACHE-33:
+    SJZ-CACHE-40:
+    SJZ-CACHE-41:
+    SJZ-CACHE-39:
+    SJZ-CACHE-36:
+    SJZ-CACHE-32:
+    SJZ-CACHE-43:
+    SJZ-CACHE-31:
+    SJZ-CACHE-35:
+hangzhou:
+    HZ-CACHE-15:
+    HZ-CACHE-16:
+    HZ-CACHE-13:
+    HZ-CACHE-23:
+    HZ-CACHE-12:
+    HZ-CACHE-19:
+    HZ-CACHE-24:
+    HZ-CACHE-17:
+    HZ-CACHE-20:
+    HZ-CACHE-26:
+    HZ-CACHE-21:
+    HZ-CACHE-14:
+    HZ-CACHE-18:
+    HZ-CACHE-25:
+    HZ-CACHE-22:
+zhejiangyidong:
+    ZJYD-CACHE-205:
+    ZJYD-CACHE-207:
+    ZJYD-CACHE-217:
+    ZJYD-CACHE-211:
+    ZJYD-CACHE-213:
+    ZJYD-CACHE-220:
+    ZJYD-CACHE-222:
+    ZJYD-CACHE-215:
+    ZJYD-CACHE-212:
+    ZJYD-CACHE-216:
+    ZJYD-CACHE-209:
+    ZJYD-CACHE-208:
+    ZJYD-CACHE-218:
+    ZJYD-CACHE-214:
+    ZJYD-CACHE-204:
+    ZJYD-CACHE-210:
+    ZJYD-CACHE-206:
+tianjin:
+    TJ-CACHE-91:
+    TJ-CACHE-89:
+    TJ-CACHE-82:
+    TJ-CACHE-80:
+    TJ-CACHE-83:
+    TJ-CACHE-85:
+    TJ-CACHE-84:
+    TJ-CACHE-79:
+    TJ-CACHE-93:
+    TJ-CACHE-87:
+    TJ-CACHE-86:
+    TJ-CACHE-88:
+    TJ-CACHE-81:
+    TJ-CACHE-92:
+    TJ-CACHE-90:
+huhehaote:
+    HHHT-CACHE-48:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-47:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-8:
+    HHHT-CACHE-9:
+    HHHT-CACHE-22:
+    HHHT-CACHE-37:
+    HHHT-CACHE-32:
+    HHHT-CACHE-29:
+    HHHT-CACHE-35:
+    HHHT-CACHE-31:
+    HHHT-CACHE-41:
+    HHHT-CACHE-30:
+    HHHT-CACHE-21:
+    HHHT-CACHE-45:
+    HHHT-CACHE-43:
+    HHHT-CACHE-24:
+    HHHT-CACHE-44:
+    HHHT-CACHE-33:
+    HHHT-CACHE-20:
+    HHHT-CACHE-39:
+    HHHT-CACHE-46:
+    HHHT-CACHE-40:
+    HHHT-CACHE-38:
+    HHHT-CACHE-42:
+    HHHT-CACHE-19:
+        grep: /tmp/nginx/7/e9/f8a12c4b4311b0a1786109e502220e97: No such file or directory
+    HHHT-CACHE-36:
+dongguan:
+    DG-CACHE-150:
+    DG-CACHE-146:
+    DG-CACHE-144:
+    DG-CACHE-138:
+    DG-CACHE-141:
+    DG-CACHE-142:
+    DG-CACHE-140:
+    DG-CACHE-143:
+    DG-CACHE-151:
+    DG-CACHE-145:
+    DG-CACHE-152:
+    DG-CACHE-149:
+    DG-CACHE-139:
+    DG-CACHE-147:
+BJ-SQUID-32:
+BJ-SQUID-35:
+BJ-SQUID-33:
+BJ-SQUID-30:
+BJ-SQUID-36:
+    grep: /tmp/nginx/d/9c/2228863971a3886baaa2425e6334d9cd: No such file or directory
+    grep: /tmp/nginx/d/9c/2096e5b90ae644b99faecd989201e9cd: No such file or directory
+BJ-SQUID-31:
+    grep: /tmp/nginx/7/91/3b0aec6e5b7f1a56ebe069e2df42b917: No such file or directory
+BJ-CACHE-202:
+    grep: /usr/local/nginx/cache/b/7a/88684d3e21fac35edecd0086775a27ab: No such file or directory
+BJ-CACHE-200:
+BJ-CACHE-201:
+BJ-CACHE-203:
+    grep: /usr/local/nginx/cache/7/0e/e7be775287f12b83ce3c5734856830e7: No such file or directory
+    grep: /usr/local/nginx/cache/7/0e/58aef998955e9c1b300706eed086e0e7: No such file or directory
+BJ-CACHE-204:
+[22/Jan/2014 17:45:22] "POST /nginx_cache_url_withargs HTTP/1.1" 200 107
+shanxiyidong:
+    SXYD-CACHE-35:
+    SXYD-CACHE-33:
+    SXYD-CACHE-15:
+    SXYD-CACHE-39:
+    SXYD-CACHE-40:
+    SXYD-CACHE-41:
+    SXYD-CACHE-37:
+    SXYD-CACHE-14:
+    SXYD-CACHE-42:
+    SXYD-CACHE-36:
+    SXYD-CACHE-34:
+    SXYD-CACHE-32:
+    SXYD-CACHE-38:
+guangzhou:
+    GZ-CACHE-22:
+    GZ-CACHE-24:
+    GZ-CACHE-14:
+    GZ-CACHE-17:
+    GZ-CACHE-20:
+    GZ-CACHE-26:
+    GZ-CACHE-16:
+    GZ-CACHE-12:
+    GZ-CACHE-18:
+    GZ-CACHE-13:
+    GZ-CACHE-21:
+    GZ-CACHE-25:
+    GZ-CACHE-23:
+    GZ-CACHE-19:
+    GZ-CACHE-15:
+wuxi:
+    WX-CACHE-44:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-43:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    WX-CACHE-23:
+    WX-CACHE-25:
+    WX-CACHE-30:
+    WX-CACHE-32:
+    WX-CACHE-29:
+    WX-CACHE-22:
+    WX-CACHE-24:
+    WX-CACHE-20:
+    WX-CACHE-27:
+    WX-CACHE-26:
+    WX-CACHE-31:
+    WX-CACHE-28:
+    WX-CACHE-33:
+    WX-CACHE-34:
+    WX-CACHE-35:
+    WX-CACHE-21:
+xian:
+    XA-CACHE-15:
+    XA-CACHE-13:
+    XA-CACHE-27:
+    XA-CACHE-14:
+    XA-CACHE-12:
+    XA-CACHE-26:
+    XA-CACHE-17:
+    XA-CACHE-20:
+    XA-CACHE-25:
+    XA-CACHE-16:
+    XA-CACHE-22:
+    XA-CACHE-18:
+    XA-CACHE-24:
+    XA-CACHE-19:
+    XA-CACHE-23:
+    XA-CACHE-21:
+zhengzhou:
+    ZZ-CACHE-35:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-31:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-36:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    ZZ-CACHE-23:
+    ZZ-CACHE-52:
+    ZZ-CACHE-54:
+    ZZ-CACHE-20:
+    ZZ-CACHE-21:
+    ZZ-CACHE-55:
+    ZZ-CACHE-24:
+    ZZ-CACHE-17:
+    ZZ-CACHE-18:
+    ZZ-CACHE-56:
+    ZZ-CACHE-19:
+    ZZ-CACHE-58:
+    ZZ-CACHE-14:
+    ZZ-CACHE-57:
+    ZZ-CACHE-16:
+    ZZ-CACHE-53:
+    ZZ-CACHE-26:
+    ZZ-CACHE-59:
+    ZZ-CACHE-25:
+    ZZ-CACHE-61:
+    ZZ-CACHE-60:
+fuzhou:
+    FZ-CACHE-5:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-8:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-7:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-40:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-24:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-25:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-39:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    FZ-CACHE-26:
+    FZ-CACHE-27:
+    FZ-CACHE-17:
+    FZ-CACHE-36:
+    FZ-CACHE-12:
+    FZ-CACHE-18:
+    FZ-CACHE-16:
+    FZ-CACHE-14:
+    FZ-CACHE-15:
+    FZ-CACHE-19:
+    FZ-CACHE-13:
+    FZ-CACHE-37:
+taiyuan:
+    TY-CACHE-14:
+    TY-CACHE-26:
+    TY-CACHE-16:
+    TY-CACHE-23:
+    TY-CACHE-13:
+    TY-CACHE-25:
+    TY-CACHE-19:
+    TY-CACHE-27:
+    TY-CACHE-22:
+    TY-CACHE-17:
+    TY-CACHE-20:
+    TY-CACHE-18:
+    TY-CACHE-21:
+    TY-CACHE-24:
+    TY-CACHE-15:
+        grep: /tmp/nginx/7/69/bd13adc81610a0e0028d66dfa3999697: No such file or directory
+shenyang:
+    SY-CACHE-25:
+    SY-CACHE-29:
+    SY-CACHE-27:
+    SY-CACHE-24:
+    SY-CACHE-17:
+    SY-CACHE-15:
+    SY-CACHE-19:
+    SY-CACHE-26:
+    SY-CACHE-22:
+    SY-CACHE-28:
+    SY-CACHE-23:
+    SY-CACHE-12:
+    SY-CACHE-18:
+    SY-CACHE-14:
+    SY-CACHE-16:
+hangzhou:
+    HZ-CACHE-13:
+    HZ-CACHE-15:
+    HZ-CACHE-16:
+    HZ-CACHE-23:
+    HZ-CACHE-17:
+    HZ-CACHE-20:
+    HZ-CACHE-12:
+    HZ-CACHE-24:
+    HZ-CACHE-19:
+    HZ-CACHE-21:
+    HZ-CACHE-26:
+    HZ-CACHE-14:
+    HZ-CACHE-18:
+    HZ-CACHE-22:
+        grep: /tmp/nginx/c/a5/4b6dde10329587ab9a6535281b4c7a5c: No such file or directory
+    HZ-CACHE-25:
+nanning:
+    NNN-CACHE-217:
+    NNN-CACHE-219:
+    NNN-CACHE-215:
+    NNN-CACHE-208:
+    NNN-CACHE-206:
+    NNN-CACHE-164:
+    NNN-CACHE-213:
+    NNN-CACHE-205:
+    NNN-CACHE-212:
+    NNN-CACHE-209:
+    NNN-CACHE-211:
+    NNN-CACHE-207:
+    NNN-CACHE-220:
+    NNN-CACHE-214:
+    NNN-CACHE-163:
+    NNN-CACHE-218:
+    NNN-CACHE-210:
+    NNN-CACHE-216:
+zhejiangyidong:
+    ZJYD-CACHE-207:
+    ZJYD-CACHE-205:
+    ZJYD-CACHE-217:
+    ZJYD-CACHE-211:
+    ZJYD-CACHE-213:
+    ZJYD-CACHE-220:
+    ZJYD-CACHE-222:
+    ZJYD-CACHE-215:
+    ZJYD-CACHE-216:
+    ZJYD-CACHE-212:
+    ZJYD-CACHE-209:
+    ZJYD-CACHE-214:
+    ZJYD-CACHE-208:
+    ZJYD-CACHE-218:
+    ZJYD-CACHE-204:
+    ZJYD-CACHE-210:
+    ZJYD-CACHE-206:
+tianjin:
+    TJ-CACHE-91:
+    TJ-CACHE-89:
+    TJ-CACHE-82:
+    TJ-CACHE-83:
+    TJ-CACHE-80:
+    TJ-CACHE-84:
+    TJ-CACHE-85:
+    TJ-CACHE-93:
+    TJ-CACHE-79:
+    TJ-CACHE-87:
+    TJ-CACHE-86:
+    TJ-CACHE-88:
+    TJ-CACHE-92:
+    TJ-CACHE-81:
+    TJ-CACHE-90:
+huhehaote:
+    HHHT-CACHE-48:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-47:
+        python: can't open file '/usr/local/nginx/purge/purge_withargs.py': [Errno 2] No such file or directory
+    HHHT-CACHE-8:
+    HHHT-CACHE-9:
+    HHHT-CACHE-22:
+    HHHT-CACHE-32:
+    HHHT-CACHE-29:
+    HHHT-CACHE-41:
+    HHHT-CACHE-30:
+    HHHT-CACHE-45:
+    HHHT-CACHE-31:
+    HHHT-CACHE-21:
+    HHHT-CACHE-37:
+    HHHT-CACHE-35:
+    HHHT-CACHE-43:
+    HHHT-CACHE-33:
+    HHHT-CACHE-20:
+    HHHT-CACHE-24:
+    HHHT-CACHE-44:
+    HHHT-CACHE-39:
+    HHHT-CACHE-46:
+    HHHT-CACHE-40:
+    HHHT-CACHE-38:
+    HHHT-CACHE-42:
+    HHHT-CACHE-19:
+        grep: /tmp/nginx/8/6f/a7507b1b7d94801cce0e388f0f60d6f8: No such file or directory
+    HHHT-CACHE-36:
+dongguan:
+    DG-CACHE-146:
+    DG-CACHE-150:
+    DG-CACHE-144:
+    DG-CACHE-142:
+    DG-CACHE-141:
+    DG-CACHE-138:
+    DG-CACHE-140:
+    DG-CACHE-143:
+    DG-CACHE-151:
+    DG-CACHE-145:
+    DG-CACHE-149:
+    DG-CACHE-152:
+    DG-CACHE-139:
+    DG-CACHE-147:
+shijiazhuang:
+    SJZ-CACHE-47:
+    SJZ-CACHE-46:
+    SJZ-CACHE-44:
+    SJZ-CACHE-38:
+    SJZ-CACHE-49:
+    SJZ-CACHE-34:
+    SJZ-CACHE-48:
+    SJZ-CACHE-50:
+    SJZ-CACHE-37:
+    SJZ-CACHE-40:
+    SJZ-CACHE-33:
+    SJZ-CACHE-45:
+    SJZ-CACHE-32:
+    SJZ-CACHE-43:
+    SJZ-CACHE-36:
+    SJZ-CACHE-41:
+    SJZ-CACHE-31:
+    SJZ-CACHE-39:
+    SJZ-CACHE-35:
+[13/Feb/2014 18:04:57] "GET / HTTP/1.1" 302 0
+[13/Feb/2014 18:04:57] "GET /login?next=/ HTTP/1.1" 301 0
+[13/Feb/2014 18:04:57] "GET /login/?next=/ HTTP/1.1" 200 2258
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/SocketServer.py", line 283, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib64/python2.6/SocketServer.py", line 309, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib64/python2.6/SocketServer.py", line 322, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 570, in __init__
+    BaseHTTPRequestHandler.__init__(self, *args, **kwargs)
+  File "/usr/lib64/python2.6/SocketServer.py", line 617, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 610, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib64/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[13/Feb/2014 18:04:57] "GET /static/bootstrap/css/bootstrap-responsive.css HTTP/1.1" 500 29
+[13/Feb/2014 18:04:57] "GET /static/bootstrap/js/jquery-1.7.2.min.js HTTP/1.1" 500 29
+[13/Feb/2014 18:04:57] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 500 29
+[13/Feb/2014 18:04:57] "GET /static/extra/js/extra.js HTTP/1.1" 500 29
+[13/Feb/2014 18:04:57] "GET /static/extra/js/amcharts.js HTTP/1.1" 500 29
+[13/Feb/2014 18:05:00] "POST /login/?next=/ HTTP/1.1" 200 14112
+[13/Feb/2014 18:05:00] "GET /static/bootstrap/css/bootstrap-responsive.css HTTP/1.1" 500 29
+[13/Feb/2014 18:05:00] "GET /static/bootstrap/js/jquery-1.7.2.min.js HTTP/1.1" 500 29
+[13/Feb/2014 18:05:00] "GET /static/extra/js/extra.js HTTP/1.1" 500 29
+[13/Feb/2014 18:05:00] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 500 29
+[13/Feb/2014 18:05:00] "GET /static/extra/js/amcharts.js HTTP/1.1" 500 29
+[13/Feb/2014 18:05:00] "GET /login/static/extra/img/saltstack_logo.png HTTP/1.1" 500 29
+Validating models...
+
+0 errors found
+Django version 1.3.7, using settings 'salt_web_admin.settings'
+Development server is running at http://192.168.111.142:8008/
+Quit the server with CONTROL-C.
+----------------------------------------
+Exception happened during processing of request from ('192.168.8.57', 52078)
+----------------------------------------

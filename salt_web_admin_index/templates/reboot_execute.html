@@ -1,0 +1,47 @@
+<div>
+<div >
+    <div class='row-fluid' >
+    <div class="row-fluid" id="log_div" style="">
+    <button type="button" onclick="refresh_reboot()">刷新</button>
+    <button type="button" onclick="result_check_reboot()">返回结果检查</button>
+<div id="reboot_result" onchange="$('#progress_stop').hide()" style="height:400px;#c3c3c3;background-color:black;color:white;overflow-y:auto;" class="well">
+</div>
+</div>
+    </div>
+</div>
+<div id="result_check"></div>
+<script>
+  ajaxCommand('/getjobinfo?jid_reboot={{jid_reboot}}','','reboot_result');
+</script>
+<script type="text/javascript">
+function refresh_reboot()
+{
+  document.getElementById('reboot_result').innerHTML=""; 
+  ajaxCommand('/getjobinfo?jid_reboot={{jid_reboot}}','','reboot_result');
+}
+</script>
+<script type="text/javascript">
+function result_check_reboot()
+{
+var xmlhttp;
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+    document.getElementById('reboot_result').innerHTML=""; 
+    document.getElementById('reboot_result').innerHTML=xmlhttp.responseText;
+    }
+  }
+xmlhttp.open("GET","/result_check?jid_reboot={{jid_reboot}}",true);
+xmlhttp.send();
+}
+</script>
+

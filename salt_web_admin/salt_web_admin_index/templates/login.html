@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta itemprop="image" content="/static/extra/img/favicon.ico">
+    <title>salt web management page</title>
+
+    <!-- Le styles -->
+  <link href="/static/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+    <script type="text/javascript" src="/static/bootstrap/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/static/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/static/extra/js/extra.js"></script>
+<script type="text/javascript" src="/static/extra/js/amcharts.js"></script>
+
+
+  </head>
+  <body>
+    <div class="container">
+      <div class="row-fluid">
+          <div class="span12">
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container">
+         <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+        <style>
+            .navbar .nav > li > a {
+                color: #c0c0c0;
+            }
+        </style>
+        <a class="brand" style='padding:10px 20px 0;margin-top:-7px;' href="#"><img src="http://220.181.167.24/static/extra/img/saltstack_logo.png"></img></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+            </ul>
+            <ul class="nav pull-right">
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<form class="form-horizontal" method="post" action="">
+    {% csrf_token %}
+  <div>
+  {{message}}
+  </div>
+  <div class="control-group">
+    <label class="control-label" >用户名</label>
+    <div class="controls">
+     <input id="id_username" type="text" name="username" maxlength="254">
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label">密码</label>
+    <div class="controls">
+     <input id="id_password" type="password" name="password">
+    </div>
+  </div>
+  <div class="control-group">
+    <div class="controls">
+      <button type="submit" class="btn" >登陆</button>
+    </div>
+  </div>
+</form>
